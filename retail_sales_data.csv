@@ -1,0 +1,1211 @@
+OrderID,OrderDate,CustomerID,CustomerSegment,Region,ProductCategory,Product,Quantity,UnitPrice,DiscountPct,Sales,Profit,ShippingCost,PaymentMode
+ORD1000,2024-04-12,CUST385,Home Office,North,Groceries,Cooking Oil,5,994.14,0.05,4722.16,1573.92,259.39,UPI
+ORD1001,2025-03-11,CUST243,Consumer,Central,Clothing,Cap,3,751.98,0.2,1804.75,-110.55,480.11,UPI
+ORD1002,2024-09-27,CUST118,Corporate,West,Clothing,Sneakers,3,3246.01,0.25,7303.52,-661.99,372.66,Credit Card
+ORD1003,2024-04-16,CUST117,Corporate,South,Clothing,Sneakers,1,599.63,,569.65,147.5,378.92,Cash on Delivery
+ORD1004,2024-03-12,CUST356,Corporate,West,Electronics,Tablet,3,57393.66,0.15,146353.83,9022.9,141.12,Credit Card
+ORD1005,2025-12-01,CUST177,Consumer,West,Furniture,Table Lamp,2,15856.77,0.1,28542.19,3337.98,219.06,Net Banking
+ORD1006,2024-01-21,CUST274,Corporate,East,Groceries,Rice 5kg,6,101.78,0.2,488.54,-18.59,59.52,Credit Card
+ORD1007,2025-09-06,CUST293,Consumer,West,Groceries,Cooking Oil,3,1351.61,0.05,3852.09,598.99,311.13,Cash on Delivery
+ORD1008,2024-05-01,CUST212,Corporate,South,Stationery,Marker Set,1,649.97,0.05,617.47,134.47,69.79,Credit Card
+ORD1009,2025-04-11,CUST213,Consumer,East,Clothing,Cap,1,1140.54,0.05,1083.51,247.73,421.24,Net Banking
+ORD1010,2024-08-02,CUST321,Home Office,East,Clothing,Jacket,2,2755.29,0.15,4683.99,880.55,410.99,Credit Card
+ORD1011,2024-11-26,CUST265,Consumer,Central,Clothing,Cap,1,3265.33,0.0,3265.33,855.69,276.13,UPI
+ORD1012,2025-04-03,CUST231,Corporate,West,Groceries,Cooking Oil,7,777.17,0.0,5440.19,1150.25,87.76,Net Banking
+ORD1013,2024-03-28,CUST363,Home Office,West,Stationery,Backpack,4,412.89,0.05,1568.98,180.49,32.28,Credit Card
+ORD1014,2025-01-07,CUST154,Corporate,North,Electronics,Smartwatch,7,47758.82,0.0,334311.74,103574.39,402.42,Credit Card
+ORD1015,2024-04-09,CUST230,Consumer,West,Furniture,Sofa,6,17521.96,0.1,94618.58,18703.36,308.07,Cash on Delivery
+ORD1016,2025-10-25,CUST387,Consumer,West,Electronics,Smartwatch,6,53547.64,0.0,321285.84,101705.72,361.25,Cash on Delivery
+ORD1017,2024-05-10,CUST365,Home Office,West,Groceries,Snack Pack,6,1069.52,0.0,6417.12,1600.77,165.83,Credit Card
+ORD1018,2025-10-23,CUST261,Consumer,West,Clothing,Cap,5,1079.29,0.2,4317.16,329.31,264.55,Credit Card
+ORD1019,2024-11-04,CUST186,Consumer,Central,Furniture,Sofa,3,23393.99,0.05,66672.87,27697.3,378.64,Credit Card
+ORD1020,2024-12-09,CUST154,Corporate,East,Groceries,Rice 5kg,4,246.77,0.1,888.37,185.23,242.03,Credit Card
+ORD1021,2025-05-06,CUST387,Corporate,East,Groceries,Beverage Crate,3,475.12,0.0,1425.36,603.57,308.66,Debit Card
+ORD1022,2025-02-17,CUST277,Consumer,North,Groceries,Spices Combo,4,828.27,0.0,3313.08,1464.66,399.07,UPI
+ORD1023,2025-01-20,CUST107,Corporate,South,Furniture,Sofa,3,14794.94,0.15,37727.1,2780.31,123.31,UPI
+ORD1024,2024-07-10,CUST346,Corporate,West,Furniture,Desk,2,1859.8,0.15,3161.66,827.26,51.65,Debit Card
+ORD1025,2024-10-03,CUST354,Consumer,West,Stationery,Pen Set,7,947.66,0.05,6301.94,1975.52,275.28,UPI
+ORD1026,2024-06-09,CUST153,Home Office,North,Stationery,Pen Set,1,465.85,0.25,349.39,84.22,49.82,Net Banking
+ORD1027,2025-04-04,CUST348,Consumer,North,Electronics,Tablet,1,25572.28,0.2,20457.82,5016.0,387.95,UPI
+ORD1028,2024-11-09,CUST338,Consumer,West,Furniture,Bookshelf,7,20520.18,0.25,107730.94,-4263.49,365.22,UPI
+ORD1029,2024-01-22,CUST328,Consumer,North,Furniture,Bookshelf,2,10413.16,0.05,19785.0,5246.99,443.22,UPI
+ORD1030,2024-09-09,CUST166,Consumer,North,Furniture,Office Chair,4,2609.78,0.0,10439.12,1939.58,326.99,Credit Card
+ORD1031,2025-07-14,CUST150,Home Office,North,Stationery,Marker Set,7,252.91,0.1,1593.33,408.65,52.25,Credit Card
+ORD1032,2025-04-19,CUST196,Consumer,North,Groceries,Spices Combo,5,1438.26,0.1,6472.17,1937.26,141.51,Credit Card
+ORD1033,2024-02-28,CUST191,Consumer,North,Clothing,Jeans,4,525.3,0.0,2101.2,726.43,407.81,Credit Card
+ORD1034,2025-05-25,CUST363,Consumer,South,Stationery,Pen Set,1,458.17,0.15,389.44,39.48,100.22,UPI
+ORD1035,2025-11-12,CUST390,Corporate,South,Furniture,Bookshelf,5,13324.71,0.0,66623.55,18887.66,355.27,UPI
+ORD1036,2025-04-20,CUST195,Corporate,Central,Stationery,Printer Paper,3,617.27,0.05,1759.22,238.41,394.52,UPI
+ORD1037,2025-11-30,CUST187,Consumer,East,Electronics,Smartwatch,5,2229.68,0.0,11148.4,3002.81,178.45,Credit Card
+ORD1038,2024-07-08,CUST177,Consumer,West,Furniture,Desk,4,13277.32,0.1,47798.35,10733.09,174.7,Net Banking
+ORD1039,2025-11-17,CUST387,Home Office,North,Electronics,Tablet,2,24258.8,0.0,48517.6,10396.07,287.75,Credit Card
+ORD1040,2025-07-16,CUST219,Consumer,South,Furniture,Office Chair,3,24343.86,0.15,62076.84,1149.5,433.42,UPI
+ORD1041,2025-07-20,CUST264,Consumer,West,Stationery,Backpack,4,233.03,0.1,838.91,226.74,127.47,Net Banking
+ORD1042,2024-08-31,CUST281,Consumer,North,Groceries,Rice 5kg,3,595.82,0.15,1519.34,402.24,471.8,Credit Card
+ORD1043,2025-05-19,CUST322,Corporate,East,Clothing,Cap,5,1642.34,0.25,6158.78,124.29,307.58,Net Banking
+ORD1044,2024-05-10,CUST106,Consumer,East,Electronics,Tablet,1,24660.23,0.1,22194.21,4940.39,496.22,Net Banking
+ORD1045,2025-04-29,CUST362,Consumer,East,Stationery,Notebook Pack,4,815.71,0.25,2447.13,-315.7,63.01,Credit Card
+ORD1046,2025-10-08,CUST260,Consumer,North,Groceries,Rice 5kg,2,401.72,0.0,803.44,250.1,80.75,Credit Card
+ORD1047,2024-01-21,CUST250,Home Office,South,Stationery,Notebook Pack,7,304.23,0.0,2129.61,910.84,416.79,Debit Card
+ORD1048,2024-06-15,CUST184,Consumer,East,Electronics,Tablet,5,44294.24,0.0,221471.2,34724.31,435.08,Credit Card
+ORD1049,2024-09-30,CUST246,Corporate,North,Clothing,Jeans,4,1900.93,0.0,7603.72,1497.35,233.82,Cash on Delivery
+ORD1050,2025-01-22,CUST211,Consumer,West,Stationery,Notebook Pack,2,527.43,0.15,896.63,260.05,362.75,UPI
+ORD1051,2025-08-23,CUST135,Consumer,West,Furniture,Sofa,4,5476.27,0.0,21905.08,3912.65,436.43,Credit Card
+ORD1052,2024-11-11,CUST384,Corporate,Central,Groceries,Spices Combo,5,362.54,0.05,1722.06,539.82,40.7,Credit Card
+ORD1053,2024-01-14,CUST287,Consumer,North,Stationery,Printer Paper,4,62.13,0.1,223.67,58.87,295.5,UPI
+ORD1054,2024-08-29,CUST181,Home Office,West,Groceries,Snack Pack,3,228.0,0.1,615.6,53.41,429.67,UPI
+ORD1055,2024-12-11,CUST101,Home Office,East,Furniture,Sofa,5,14585.71,0.05,69282.12,17573.25,211.11,Net Banking
+ORD1056,2025-07-18,CUST296,Home Office,South,Clothing,Jeans,4,3153.99,0.15,10723.57,3263.39,165.14,Cash on Delivery
+ORD1057,2024-12-05,CUST110,Consumer,North,Clothing,T-Shirt,7,1218.93,0.0,8532.51,2894.94,401.94,Cash on Delivery
+ORD1058,2024-04-01,CUST333,Corporate,West,Furniture,Table Lamp,1,9202.06,0.0,9202.06,2147.49,181.18,Credit Card
+ORD1059,2025-01-01,CUST294,Consumer,South,Groceries,Rice 5kg,4,261.85,0.1,942.66,311.86,21.52,Cash on Delivery
+ORD1060,2025-03-30,CUST218,Home Office,South,Stationery,Marker Set,3,496.93,,1341.71,257.8,480.59,Cash on Delivery
+ORD1061,2025-03-03,CUST119,Corporate,North,Furniture,Desk,2,2374.71,0.05,4511.95,909.12,304.22,Debit Card
+ORD1062,2025-05-23,CUST360,Corporate,West,Electronics,Headphones,7,55220.84,0.2,309236.7,56761.91,413.37,UPI
+ORD1063,2024-02-04,CUST392,Consumer,West,Groceries,Beverage Crate,2,1042.36,0.05,1980.48,399.92,416.14,Net Banking
+ORD1064,2024-07-24,CUST355,Consumer,West,Clothing,Jeans,7,3470.4,0.05,23078.16,3273.16,51.88,UPI
+ORD1065,2024-03-21,CUST321,Consumer,South,Furniture,Sofa,2,22246.34,0.0,44492.68,13719.98,102.01,UPI
+ORD1066,2025-07-15,CUST325,Corporate,North,Clothing,Jeans,1,1813.57,0.1,1632.21,426.42,169.34,Debit Card
+ORD1067,2025-01-22,CUST152,Consumer,East,Groceries,Rice 5kg,3,827.56,0.1,2234.41,681.87,173.94,Credit Card
+ORD1068,2024-01-02,CUST379,Consumer,East,Clothing,T-Shirt,5,909.84,0.0,4549.2,1222.54,336.22,Credit Card
+ORD1069,2025-01-24,CUST180,Corporate,North,Furniture,Bookshelf,2,12357.92,0.0,24715.84,4598.24,319.1,Cash on Delivery
+ORD1070,2025-07-19,CUST301,Corporate,West,Groceries,Snack Pack,7,1364.24,0.15,8117.23,1934.78,257.4,Credit Card
+ORD1071,2024-04-15,CUST257,Consumer,Central,Electronics,Tablet,3,4949.5,0.05,14106.08,4174.35,121.41,Cash on Delivery
+ORD1072,2025-04-21,CUST219,Corporate,West,Furniture,Sofa,4,21793.58,0.0,87174.32,28594.25,203.35,Net Banking
+ORD1073,2025-12-03,CUST158,Consumer,West,Stationery,Backpack,1,442.09,0.1,397.88,80.35,280.93,Credit Card
+ORD1074,2025-02-05,CUST314,Consumer,Central,Furniture,Sofa,3,22638.55,0.0,67915.65,25908.28,244.63,UPI
+ORD1075,2025-12-30,CUST227,Consumer,North,Groceries,Rice 5kg,3,1417.23,0.2,3401.35,14.18,81.1,Net Banking
+ORD1076,2025-07-09,CUST323,Consumer,East,Furniture,Sofa,5,17265.32,0.0,86326.6,31191.47,331.77,UPI
+ORD1077,2024-06-10,CUST308,Consumer,Central,Electronics,Tablet,3,40536.58,0.1,109448.77,16829.72,55.06,Debit Card
+ORD1078,2024-07-20,CUST214,Corporate,North,Electronics,Tablet,5,28259.75,0.05,134233.81,34764.47,201.53,Cash on Delivery
+ORD1079,2024-09-26,CUST308,Consumer,West,Stationery,Pen Set,1,1010.87,0.15,859.24,125.58,360.81,UPI
+ORD1080,2024-09-27,CUST113,Consumer,East,Clothing,T-Shirt,1,3377.16,0.0,3377.16,1337.75,29.61,Credit Card
+ORD1081,2025-03-31,CUST108,Home Office,East,Groceries,Spices Combo,4,1185.11,0.1,4266.4,613.86,293.59,Debit Card
+ORD1082,2025-04-06,CUST139,Consumer,West,Groceries,Snack Pack,5,970.71,0.1,4368.2,1424.1,180.57,UPI
+ORD1083,2025-12-27,CUST336,Consumer,Central,Clothing,T-Shirt,5,2241.74,,10648.26,4101.91,24.24,Credit Card
+ORD1084,2024-09-08,CUST380,Corporate,West,Electronics,Headphones,2,51269.25,0.05,97411.58,24198.7,111.38,Cash on Delivery
+ORD1085,2025-12-02,CUST300,Home Office,North,Electronics,Tablet,2,33389.82,0.1,60101.68,9162.9,471.65,Cash on Delivery
+ORD1086,2024-10-22,CUST345,Corporate,Central,Furniture,Desk,4,20390.71,0.2,65250.27,19166.39,270.15,UPI
+ORD1087,2025-12-25,CUST377,Corporate,South,Stationery,Pen Set,1,635.22,0.0,635.22,272.62,498.67,UPI
+ORD1088,2025-12-20,CUST334,Corporate,South,Stationery,Marker Set,6,121.81,0.0,730.86,152.89,271.91,Net Banking
+ORD1089,2024-12-03,CUST103,Consumer,East,Stationery,Printer Paper,2,491.54,0.15,835.62,56.32,281.09,Net Banking
+ORD1090,2024-02-22,CUST253,Corporate,East,Furniture,Office Chair,3,11944.36,0.0,35833.08,13487.88,208.08,Cash on Delivery
+ORD1091,2024-08-04,CUST128,Consumer,South,Stationery,Printer Paper,1,212.86,0.25,159.65,3.29,168.82,Debit Card
+ORD1092,2024-07-06,CUST208,Home Office,Central,Clothing,T-Shirt,6,627.99,0.1,3391.15,817.82,140.74,UPI
+ORD1093,2025-01-14,CUST197,Consumer,West,Furniture,Table Lamp,3,14083.43,,38025.26,6768.12,184.84,Net Banking
+ORD1094,2025-05-07,CUST314,Corporate,East,Clothing,Cap,7,572.46,0.0,4007.22,765.92,240.73,Debit Card
+ORD1095,2024-02-10,CUST392,Consumer,North,Furniture,Sofa,5,8619.21,0.0,43096.05,18360.77,112.16,Credit Card
+ORD1096,2024-06-05,CUST174,Corporate,Central,Stationery,Backpack,1,906.29,0.1,815.66,105.68,127.94,Credit Card
+ORD1097,2024-01-15,CUST245,Consumer,Central,Clothing,Sneakers,7,3386.18,0.2,18962.61,2419.9,150.34,Cash on Delivery
+ORD1098,2024-03-05,CUST227,Home Office,West,Clothing,Cap,4,2597.19,0.25,7791.57,319.58,235.64,Credit Card
+ORD1099,2025-06-04,CUST141,Corporate,North,Clothing,Jeans,5,3476.4,0.0,17382.0,4411.91,333.35,Credit Card
+ORD1100,2024-12-09,CUST140,Consumer,North,Furniture,Table Lamp,5,17910.94,0.0,89554.7,15512.04,430.95,Credit Card
+ORD1101,2024-05-08,CUST133,Corporate,South,Groceries,Snack Pack,3,511.31,0.0,1533.93,664.17,157.82,UPI
+ORD1102,2025-10-09,CUST116,Corporate,North,Stationery,Marker Set,7,822.86,0.15,4896.02,1677.07,108.19,Credit Card
+ORD1103,2025-04-16,CUST264,Corporate,South,Clothing,Cap,5,2546.9,0.0,12734.5,5049.5,201.85,UPI
+ORD1104,2024-03-03,CUST252,Consumer,Central,Groceries,Rice 5kg,2,620.42,0.0,1240.84,191.17,449.3,Debit Card
+ORD1105,2024-05-18,CUST175,Consumer,East,Stationery,Notebook Pack,1,70.37,0.0,70.37,16.57,24.73,Net Banking
+ORD1106,2025-05-13,CUST186,Consumer,North,Stationery,Notebook Pack,2,858.68,0.0,1717.36,456.14,345.38,Net Banking
+ORD1107,2025-08-15,CUST216,Consumer,South,Clothing,Cap,3,369.44,0.25,831.24,206.02,249.04,Credit Card
+ORD1108,2025-01-26,CUST126,Home Office,North,Clothing,Jeans,6,2319.8,0.05,13222.86,1896.67,97.3,Net Banking
+ORD1109,2025-11-05,CUST386,Consumer,North,Furniture,Desk,3,5344.99,0.0,16034.97,3305.98,174.09,Net Banking
+ORD1110,2025-02-22,CUST233,Corporate,South,Groceries,Snack Pack,1,891.84,0.0,891.84,223.46,127.98,Net Banking
+ORD1111,2024-10-15,CUST318,Consumer,South,Groceries,Cooking Oil,5,805.48,0.0,4027.4,1402.59,441.36,Credit Card
+ORD1112,2025-01-13,CUST267,Consumer,West,Clothing,Jeans,7,343.24,0.0,2402.68,1030.39,251.3,UPI
+ORD1113,2025-05-04,CUST197,Corporate,Central,Stationery,Printer Paper,7,467.3,0.0,3271.1,902.79,290.29,Cash on Delivery
+ORD1114,2024-08-18,CUST367,Home Office,South,Clothing,Sneakers,4,2223.49,0.1,8004.56,1192.6,304.97,Net Banking
+ORD1115,2024-02-10,CUST336,Consumer,South,Stationery,Notebook Pack,3,1025.9,0.0,3077.7,1297.95,327.02,Net Banking
+ORD1116,2024-01-28,CUST272,Consumer,Central,Stationery,Notebook Pack,1,1071.94,0.0,1071.94,278.56,257.87,UPI
+ORD1117,2024-05-14,CUST289,Consumer,South,Clothing,Jacket,4,1848.32,0.05,7023.62,2322.16,28.58,UPI
+ORD1118,2024-07-19,CUST221,Consumer,North,Electronics,Smartphone,5,44248.5,0.15,188056.12,15647.75,180.67,Net Banking
+ORD1119,2024-02-02,CUST145,Consumer,Central,Groceries,Beverage Crate,6,543.04,0.1,2932.42,612.93,108.26,Credit Card
+ORD1120,2024-02-17,CUST163,Consumer,North,Stationery,Printer Paper,3,443.51,0.1,1197.48,414.18,346.47,Net Banking
+ORD1121,2025-05-17,CUST229,Consumer,East,Stationery,Notebook Pack,6,273.63,0.1,1477.6,315.29,47.22,Debit Card
+ORD1122,2025-02-10,CUST292,Corporate,East,Electronics,Tablet,1,34592.99,0.1,31133.69,8000.63,290.63,Net Banking
+ORD1123,2025-07-27,CUST280,Consumer,South,Furniture,Bookshelf,6,8892.26,0.0,53353.56,21122.31,121.1,Credit Card
+ORD1124,2025-12-28,CUST391,Consumer,South,Electronics,Tablet,6,6893.51,0.2,33088.85,-101.53,475.45,Credit Card
+ORD1125,2024-04-08,CUST381,Consumer,West,Electronics,Laptop,1,41730.35,0.0,41730.35,18640.59,181.06,Net Banking
+ORD1126,2025-11-14,CUST128,Corporate,North,Stationery,Notebook Pack,1,863.92,0.05,820.72,264.67,176.11,Cash on Delivery
+ORD1127,2025-12-26,CUST248,Home Office,South,Groceries,Beverage Crate,3,603.99,0.15,1540.17,536.74,463.22,UPI
+ORD1128,2025-06-30,CUST366,Consumer,West,Electronics,Tablet,6,6449.96,0.05,36764.77,14365.27,220.33,UPI
+ORD1129,2025-09-04,CUST395,Corporate,East,Furniture,Sofa,4,11518.0,0.2,36857.6,7411.65,482.17,Credit Card
+ORD1130,2025-04-06,CUST110,Consumer,North,Clothing,T-Shirt,1,1715.47,0.05,1629.7,658.26,31.6,Net Banking
+ORD1131,2025-10-04,CUST263,Consumer,Central,Electronics,Tablet,5,40782.91,0.2,163131.64,14480.14,167.05,Net Banking
+ORD1132,2024-01-05,CUST212,Consumer,South,Electronics,Smartwatch,6,20294.15,0.15,103500.16,33356.41,339.77,Debit Card
+ORD1133,2024-08-05,CUST286,Consumer,West,Furniture,Sofa,1,17541.08,0.25,13155.81,-184.43,447.61,UPI
+ORD1134,2025-05-17,CUST394,Corporate,West,Groceries,Spices Combo,4,1320.08,0.2,4224.26,1236.69,143.07,Net Banking
+ORD1135,2025-02-01,CUST331,Home Office,East,Electronics,Headphones,7,15774.19,0.2,88335.46,25640.17,466.63,UPI
+ORD1136,2025-01-27,CUST326,Consumer,East,Electronics,Smartwatch,3,58777.33,0.1,158698.79,45564.58,305.18,UPI
+ORD1137,2024-07-25,CUST197,Corporate,Central,Groceries,Snack Pack,6,640.92,0.05,3653.24,503.87,404.48,Cash on Delivery
+ORD1138,2024-01-15,CUST154,Corporate,North,Furniture,Table Lamp,7,7780.58,0.0,54464.06,14028.96,210.66,Credit Card
+ORD1139,2025-07-07,CUST210,Consumer,West,Electronics,Smartphone,1,26447.65,0.1,23802.88,3146.22,121.85,UPI
+ORD1140,2025-04-05,CUST251,Consumer,North,Groceries,Cooking Oil,1,232.16,0.25,174.12,36.57,457.39,Net Banking
+ORD1141,2025-11-21,CUST345,Consumer,South,Electronics,Headphones,5,9290.94,0.1,41809.23,4634.43,467.91,UPI
+ORD1142,2025-07-28,CUST168,Consumer,South,Clothing,Jacket,5,1626.19,0.2,6504.76,2012.87,258.84,Credit Card
+ORD1143,2024-08-28,CUST388,Consumer,Central,Stationery,Backpack,6,926.81,0.15,4726.73,1312.82,23.12,UPI
+ORD1144,2025-07-17,CUST349,Consumer,Central,Clothing,Jeans,7,3181.0,0.0,22267.0,5904.59,72.7,UPI
+ORD1145,2024-04-05,CUST135,Consumer,North,Electronics,Headphones,7,40559.44,0.0,283916.08,95800.69,295.05,Cash on Delivery
+ORD1146,2025-04-29,CUST338,Corporate,North,Furniture,Desk,1,3972.66,0.0,3972.66,614.74,31.41,Credit Card
+ORD1147,2025-02-10,CUST247,Corporate,West,Stationery,Printer Paper,6,822.82,0.0,4936.92,2176.68,210.52,Cash on Delivery
+ORD1148,2024-08-18,CUST326,Home Office,South,Clothing,T-Shirt,1,2333.37,0.1,2100.03,117.65,165.62,Credit Card
+ORD1149,2025-10-16,CUST343,Consumer,North,Groceries,Rice 5kg,5,1228.07,0.25,4605.26,79.28,362.89,Credit Card
+ORD1150,2024-06-19,CUST300,Corporate,West,Furniture,Sofa,4,20893.34,0.15,71037.36,11064.11,46.68,Credit Card
+ORD1151,2025-06-24,CUST253,Home Office,East,Clothing,T-Shirt,2,3078.25,0.05,5848.67,2352.68,254.59,Cash on Delivery
+ORD1152,2024-02-05,CUST172,Corporate,Central,Groceries,Beverage Crate,2,679.78,0.0,1359.56,500.32,297.97,Credit Card
+ORD1153,2025-06-08,CUST300,Consumer,South,Electronics,Smartwatch,1,42476.13,0.0,42476.13,7331.43,316.3,Net Banking
+ORD1154,2024-06-08,CUST395,Corporate,South,Groceries,Spices Combo,7,475.55,0.05,3162.41,977.77,214.48,UPI
+ORD1155,2025-11-29,CUST116,Consumer,East,Clothing,Jacket,5,3497.88,0.0,17489.4,4398.65,166.1,Debit Card
+ORD1156,2024-08-30,CUST228,Consumer,West,Clothing,Jacket,3,861.07,0.0,2583.21,387.87,347.6,Cash on Delivery
+ORD1157,2024-03-26,CUST316,Consumer,East,Electronics,Laptop,3,2586.64,0.05,7371.92,2491.54,426.83,Net Banking
+ORD1158,2025-07-31,CUST160,Corporate,East,Groceries,Spices Combo,2,308.33,0.0,616.66,170.92,352.94,Cash on Delivery
+ORD1159,2025-11-12,CUST203,Consumer,South,Groceries,Beverage Crate,4,1186.22,0.2,3795.9,194.86,467.41,UPI
+ORD1160,2025-07-10,CUST141,Home Office,Central,Electronics,Smartwatch,2,27913.45,0.0,55826.9,22364.92,364.29,Cash on Delivery
+ORD1161,2025-07-27,CUST124,Corporate,South,Groceries,Rice 5kg,1,726.5,0.0,726.5,294.52,387.02,Credit Card
+ORD1162,2025-10-07,CUST138,Consumer,North,Electronics,Tablet,4,57391.33,0.0,229565.32,71878.65,100.59,Credit Card
+ORD1163,2024-01-28,CUST390,Home Office,West,Furniture,Office Chair,3,23111.42,0.0,69334.26,23175.41,221.38,UPI
+ORD1164,2025-09-11,CUST230,Consumer,North,Clothing,Cap,7,1295.82,0.1,8163.67,1231.22,252.83,UPI
+ORD1165,2025-07-09,CUST328,Home Office,North,Furniture,Office Chair,5,6412.87,0.1,28857.92,10553.9,143.02,UPI
+ORD1166,2024-12-05,CUST207,Consumer,Central,Stationery,Pen Set,5,1025.75,0.05,4872.31,555.7,273.7,UPI
+ORD1167,2024-11-26,CUST271,Consumer,East,Stationery,Printer Paper,1,1091.92,0.1,982.73,377.5,159.58,UPI
+ORD1168,2025-10-01,CUST201,Corporate,West,Stationery,Printer Paper,2,672.84,0.05,1278.4,295.52,350.0,UPI
+ORD1169,2025-05-20,CUST111,Corporate,South,Electronics,Smartwatch,1,38506.58,0.1,34655.92,6977.78,245.74,Credit Card
+ORD1170,2024-12-13,CUST374,Corporate,West,Groceries,Cooking Oil,5,459.68,0.0,2298.4,941.39,240.23,Debit Card
+ORD1171,2025-04-17,CUST200,Home Office,North,Furniture,Desk,3,20318.86,0.05,57908.75,21622.83,492.15,Debit Card
+ORD1172,2024-08-18,CUST143,Corporate,South,Furniture,Sofa,5,16354.88,0.15,69508.24,5086.1,208.37,Debit Card
+ORD1173,2024-07-08,CUST116,Corporate,Central,Furniture,Bookshelf,4,13332.57,0.15,45330.74,1798.9,193.9,UPI
+ORD1174,2024-08-12,CUST156,Home Office,West,Furniture,Desk,7,2912.55,0.1,18349.07,5404.72,172.93,UPI
+ORD1175,2025-01-19,CUST111,Corporate,East,Stationery,Notebook Pack,7,1103.33,0.0,7723.31,2460.73,449.48,Debit Card
+ORD1176,2025-01-11,CUST179,Consumer,South,Furniture,Table Lamp,6,15963.11,0.0,95778.66,32900.11,258.43,Cash on Delivery
+ORD1177,2024-10-09,CUST315,Home Office,Central,Groceries,Cooking Oil,5,369.77,0.25,1386.64,329.53,308.01,Net Banking
+ORD1178,2025-09-24,CUST363,Consumer,East,Stationery,Backpack,5,747.34,0.0,3736.7,926.85,106.79,UPI
+ORD1179,2025-09-19,CUST248,Corporate,West,Furniture,Bookshelf,7,17420.39,0.0,121942.73,24686.34,279.65,UPI
+ORD1180,2024-09-15,CUST180,Home Office,West,Electronics,Smartwatch,6,32494.68,0.0,194968.08,69903.11,151.83,Net Banking
+ORD1181,2024-12-24,CUST314,Corporate,North,Clothing,Jeans,4,2597.93,0.0,10391.72,1589.39,370.71,Credit Card
+ORD1182,2025-12-10,CUST297,Corporate,North,Clothing,Sneakers,2,2160.65,0.0,4321.3,1846.25,419.61,UPI
+ORD1183,2025-03-31,CUST299,Corporate,West,Clothing,Jacket,5,3332.86,0.05,15831.08,3357.23,363.11,Cash on Delivery
+ORD1184,2025-02-14,CUST124,Consumer,North,Stationery,Notebook Pack,7,111.75,0.05,743.14,207.71,370.52,Net Banking
+ORD1185,2025-10-10,CUST188,Home Office,South,Furniture,Desk,1,3996.77,0.2,3197.42,463.71,265.99,UPI
+ORD1186,2024-11-13,CUST367,Consumer,Central,Stationery,Notebook Pack,5,249.72,0.0,1248.6,390.45,361.82,UPI
+ORD1187,2025-11-07,CUST242,Consumer,East,Groceries,Snack Pack,1,1066.24,0.0,1066.24,397.06,222.89,Debit Card
+ORD1188,2024-08-12,CUST158,Consumer,West,Electronics,Laptop,4,39444.56,0.1,142000.42,21352.31,332.71,UPI
+ORD1189,2024-08-21,CUST125,Consumer,East,Electronics,Smartphone,5,53739.41,0.1,241827.35,35878.33,144.34,Net Banking
+ORD1190,2025-11-14,CUST146,Consumer,East,Clothing,Cap,7,2645.21,0.05,17590.65,5837.89,53.48,Net Banking
+ORD1191,2025-10-25,CUST387,Corporate,North,Clothing,Sneakers,4,1926.74,0.15,6550.92,380.79,218.47,Net Banking
+ORD1192,2025-01-08,CUST365,Consumer,South,Clothing,Sneakers,4,3473.86,,13895.44,4932.14,241.65,Net Banking
+ORD1193,2025-11-02,CUST115,Consumer,South,Furniture,Sofa,2,7753.54,0.15,13181.02,1278.9,143.08,UPI
+ORD1194,2025-08-30,CUST298,Consumer,South,Groceries,Rice 5kg,5,1266.47,0.05,6015.73,2303.07,369.3,UPI
+ORD1195,2025-04-16,CUST381,Consumer,West,Groceries,Beverage Crate,1,697.51,0.0,697.51,278.58,55.3,UPI
+ORD1196,2024-08-20,CUST185,Corporate,South,Groceries,Beverage Crate,1,1008.23,0.2,806.58,156.54,126.92,Credit Card
+ORD1197,2025-11-22,CUST349,Consumer,East,Groceries,Cooking Oil,5,1118.18,0.1,5031.81,960.73,379.31,Credit Card
+ORD1198,2024-04-22,CUST369,Consumer,South,Clothing,Jacket,6,2328.01,0.0,13968.06,3580.66,229.82,Credit Card
+ORD1199,2025-05-11,CUST216,Consumer,North,Electronics,Smartwatch,2,10149.42,0.0,20298.84,6720.81,358.54,Cash on Delivery
+ORD1200,2025-03-17,CUST106,Consumer,East,Clothing,Cap,2,1717.44,0.0,3434.88,1465.49,292.39,Credit Card
+ORD1201,2025-07-17,CUST236,Consumer,North,Groceries,Beverage Crate,2,886.01,0.1,1594.82,421.58,476.34,Credit Card
+ORD1202,2024-09-24,CUST275,Consumer,North,Clothing,T-Shirt,1,3016.94,0.0,3016.94,734.23,306.94,Credit Card
+ORD1203,2025-05-24,CUST314,Corporate,North,Groceries,Rice 5kg,4,721.1,0.0,2884.4,717.35,27.14,Net Banking
+ORD1204,2025-01-20,CUST181,Corporate,South,Stationery,Notebook Pack,7,1106.56,0.0,7745.92,3113.4,189.38,Credit Card
+ORD1205,2025-01-21,CUST322,Consumer,West,Electronics,Smartwatch,6,27541.7,0.1,148725.18,57451.68,88.67,UPI
+ORD1206,2024-04-22,CUST202,Home Office,South,Stationery,Pen Set,2,681.1,0.15,1157.87,100.95,463.82,Credit Card
+ORD1207,2025-09-04,CUST372,Consumer,South,Furniture,Table Lamp,1,20212.71,0.15,17180.8,5418.81,69.93,Cash on Delivery
+ORD1208,2025-09-16,CUST113,Consumer,West,Clothing,Sneakers,1,2165.82,0.0,2165.82,921.11,206.1,Debit Card
+ORD1209,2024-03-21,CUST258,Home Office,North,Furniture,Bookshelf,4,24065.12,0.2,77008.38,23987.11,128.53,Debit Card
+ORD1210,2025-11-29,CUST251,Consumer,Central,Clothing,Jeans,5,2413.07,0.1,10858.82,2657.03,426.43,UPI
+ORD1211,2024-04-22,CUST207,Home Office,East,Stationery,Backpack,5,651.12,0.2,2604.48,322.37,168.11,UPI
+ORD1212,2024-01-02,CUST287,Consumer,East,Groceries,Beverage Crate,7,133.03,0.05,884.65,194.34,496.11,UPI
+ORD1213,2025-10-03,CUST197,Consumer,East,Groceries,Cooking Oil,7,679.23,0.05,4516.88,1479.54,38.54,UPI
+ORD1214,2024-08-07,CUST230,Consumer,North,Clothing,Jeans,2,1257.59,0.15,2137.9,218.5,81.57,UPI
+ORD1215,2025-07-19,CUST392,Corporate,East,Groceries,Cooking Oil,7,1147.35,0.0,8031.45,3206.16,127.83,Credit Card
+ORD1216,2024-08-12,CUST270,Corporate,South,Stationery,Backpack,2,289.52,0.05,550.09,87.09,409.33,Net Banking
+ORD1217,2025-01-19,CUST282,Corporate,Central,Groceries,Cooking Oil,6,387.31,0.15,1975.28,298.49,441.69,Credit Card
+ORD1218,2025-02-06,CUST138,Consumer,North,Stationery,Notebook Pack,7,267.95,0.15,1594.3,234.14,54.3,UPI
+ORD1219,2025-09-29,CUST114,Consumer,East,Furniture,Sofa,4,4451.97,0.25,13355.91,2440.88,35.58,UPI
+ORD1220,2024-05-09,CUST103,Consumer,East,Stationery,Notebook Pack,2,407.66,0.1,733.79,267.24,377.39,UPI
+ORD1221,2024-02-22,CUST309,Consumer,North,Electronics,Laptop,4,53383.48,0.0,213533.92,66319.91,84.01,Cash on Delivery
+ORD1222,2025-11-14,CUST260,Home Office,South,Electronics,Smartwatch,1,46945.85,0.0,46945.85,12455.5,83.84,Net Banking
+ORD1223,2025-12-30,CUST115,Consumer,West,Electronics,Laptop,2,44644.57,0.05,84824.68,33169.67,30.74,Net Banking
+ORD1224,2025-11-02,CUST207,Corporate,West,Clothing,Jeans,1,2851.48,0.05,2708.91,327.47,43.91,UPI
+ORD1225,2025-12-10,CUST326,Corporate,South,Clothing,Jeans,3,1162.14,0.0,3486.42,543.45,146.56,Credit Card
+ORD1226,2025-02-19,CUST269,Consumer,West,Clothing,Cap,4,3139.81,0.0,12559.24,3596.5,51.2,UPI
+ORD1227,2024-09-03,CUST133,Corporate,Central,Stationery,Pen Set,3,207.9,0.1,561.33,40.53,197.06,Debit Card
+ORD1228,2025-03-14,CUST350,Consumer,Central,Clothing,Jacket,2,1376.31,0.15,2339.73,677.61,419.73,Debit Card
+ORD1229,2024-07-21,CUST346,Consumer,North,Furniture,Bookshelf,1,15288.58,0.25,11466.44,2941.13,176.63,Net Banking
+ORD1230,2024-07-02,CUST368,Consumer,West,Electronics,Smartwatch,2,7968.5,0.15,13546.45,4592.68,369.36,Credit Card
+ORD1231,2024-05-02,CUST240,Corporate,South,Stationery,Pen Set,3,889.65,0.15,2268.61,330.28,65.08,Credit Card
+ORD1232,2025-02-04,CUST373,Consumer,Central,Electronics,Tablet,2,24460.27,0.1,44028.49,16217.53,336.5,UPI
+ORD1233,2024-10-20,CUST195,Consumer,East,Clothing,Jeans,6,2810.1,0.25,12645.45,-1476.38,172.04,Cash on Delivery
+ORD1234,2024-10-06,CUST326,Consumer,North,Stationery,Printer Paper,5,616.83,0.1,2775.74,948.13,379.88,Net Banking
+ORD1235,2025-09-01,CUST138,Consumer,West,Groceries,Snack Pack,3,353.22,0.15,900.71,221.03,85.4,Cash on Delivery
+ORD1236,2024-07-16,CUST128,Corporate,South,Furniture,Bookshelf,2,18766.9,0.2,30027.04,121.78,450.98,UPI
+ORD1237,2025-05-25,CUST344,Corporate,Central,Clothing,Jacket,1,1106.86,0.2,885.49,204.08,136.44,Credit Card
+ORD1238,2024-05-23,CUST335,Consumer,Central,Clothing,Jacket,2,1870.59,0.05,3554.12,1223.77,189.51,Credit Card
+ORD1239,2025-08-31,CUST284,Consumer,West,Furniture,Table Lamp,1,3275.03,0.0,3275.03,842.69,476.09,Credit Card
+ORD1240,2024-07-19,CUST371,Corporate,North,Furniture,Sofa,5,16019.87,0.0,80099.35,29410.41,297.67,UPI
+ORD1241,2024-05-03,CUST335,Consumer,West,Groceries,Spices Combo,2,1032.2,0.0,2064.4,794.31,195.57,Credit Card
+ORD1242,2024-07-05,CUST338,Corporate,North,Clothing,T-Shirt,7,1511.76,0.0,10582.32,3955.11,475.81,Net Banking
+ORD1243,2024-11-21,CUST365,Consumer,North,Clothing,Cap,7,3354.15,0.0,23479.05,7109.59,177.96,Net Banking
+ORD1244,2025-04-08,CUST164,Consumer,West,Electronics,Smartphone,5,52701.8,0.0,263509.0,42206.25,65.54,UPI
+ORD1245,2024-12-14,CUST276,Consumer,North,Stationery,Backpack,3,864.13,0.05,2462.77,389.71,498.49,Credit Card
+ORD1246,2025-10-21,CUST102,Consumer,South,Stationery,Pen Set,1,870.7,0.1,783.63,230.4,148.57,Credit Card
+ORD1247,2025-02-06,CUST241,Corporate,Central,Electronics,Headphones,7,16639.3,0.0,116475.1,39716.62,428.6,Net Banking
+ORD1248,2024-12-11,CUST257,Consumer,South,Stationery,Backpack,6,805.34,0.1,4348.84,1017.86,99.46,UPI
+ORD1249,2025-05-25,CUST245,Corporate,South,Furniture,Desk,3,6157.85,0.1,16626.2,1040.46,371.05,UPI
+ORD1250,2024-05-26,CUST392,Home Office,Central,Stationery,Marker Set,1,215.6,0.1,194.04,64.31,271.74,Cash on Delivery
+ORD1251,2024-05-27,CUST252,Consumer,North,Stationery,Pen Set,5,1199.39,0.2,4797.56,856.1,490.84,UPI
+ORD1252,2025-12-11,CUST292,Corporate,West,Electronics,Headphones,7,38097.8,0.0,266684.6,61650.06,285.36,UPI
+ORD1253,2025-05-03,CUST172,Consumer,Central,Groceries,Snack Pack,4,703.38,0.0,2813.52,452.46,32.01,Net Banking
+ORD1254,2025-10-01,CUST239,Consumer,Central,Stationery,Marker Set,2,381.39,0.05,724.64,269.49,309.86,Cash on Delivery
+ORD1255,2025-07-04,CUST286,Corporate,West,Stationery,Printer Paper,5,744.51,0.0,3722.55,1421.22,89.75,Net Banking
+ORD1256,2024-12-03,CUST392,Consumer,South,Groceries,Spices Combo,1,169.43,0.1,152.49,47.83,403.3,UPI
+ORD1257,2025-10-02,CUST160,Corporate,South,Electronics,Smartwatch,1,7491.5,0.05,7116.92,2949.55,431.15,UPI
+ORD1258,2025-04-17,CUST297,Consumer,West,Groceries,Snack Pack,1,146.0,0.0,146.0,39.24,251.4,Net Banking
+ORD1259,2024-05-30,CUST394,Corporate,Central,Electronics,Laptop,1,30951.85,0.0,30951.85,7700.48,395.95,UPI
+ORD1260,2025-02-18,CUST110,Home Office,East,Furniture,Desk,2,15614.26,0.0,31228.52,8408.04,89.65,Net Banking
+ORD1261,2024-10-24,CUST161,Home Office,South,Electronics,Smartwatch,3,5623.83,0.1,15184.34,5544.02,256.2,Cash on Delivery
+ORD1262,2025-09-02,CUST325,Corporate,North,Furniture,Office Chair,6,18448.77,0.1,99623.36,36443.44,209.09,Cash on Delivery
+ORD1263,2024-09-19,CUST252,Corporate,North,Furniture,Table Lamp,4,6914.28,0.0,27657.12,10700.1,313.43,Credit Card
+ORD1264,2024-05-23,CUST298,Corporate,West,Electronics,Laptop,2,41741.68,0.0,83483.36,30297.08,41.35,Credit Card
+ORD1265,2024-12-11,CUST151,Corporate,South,Clothing,Sneakers,1,3442.07,0.0,3442.07,736.73,381.02,Credit Card
+ORD1266,2025-09-15,CUST359,Consumer,Central,Electronics,Headphones,2,42084.14,0.0,84168.28,33851.04,57.98,Net Banking
+ORD1267,2025-07-25,CUST158,Consumer,West,Stationery,Marker Set,5,1065.67,0.2,4262.68,1261.61,335.11,UPI
+ORD1268,2024-01-02,CUST171,Consumer,North,Stationery,Backpack,6,1140.43,0.0,6842.58,2270.39,28.86,Credit Card
+ORD1269,2024-10-30,CUST247,Home Office,East,Clothing,Cap,1,1857.6,0.1,1671.84,418.11,419.31,Credit Card
+ORD1270,2024-09-10,CUST162,Consumer,South,Furniture,Desk,4,18004.64,0.2,57614.85,8262.53,103.86,UPI
+ORD1271,2025-10-13,CUST342,Consumer,East,Clothing,T-Shirt,1,3026.3,0.0,3026.3,611.1,267.44,Credit Card
+ORD1272,2025-03-28,CUST206,Consumer,West,Stationery,Backpack,6,460.1,0.05,2622.57,1023.07,145.52,Credit Card
+ORD1273,2024-02-06,CUST325,Corporate,West,Clothing,T-Shirt,4,1136.47,0.25,3409.41,-50.83,366.87,Net Banking
+ORD1274,2024-06-08,CUST317,Corporate,Central,Electronics,Laptop,6,56902.72,0.15,290203.87,67810.85,174.25,Credit Card
+ORD1275,2024-01-09,CUST340,Consumer,South,Clothing,T-Shirt,4,2624.17,0.05,9971.85,3222.55,367.81,Credit Card
+ORD1276,2024-08-20,CUST358,Consumer,North,Furniture,Office Chair,3,6662.53,0.15,16989.45,404.49,156.74,Cash on Delivery
+ORD1277,2024-04-08,CUST361,Corporate,West,Electronics,Smartphone,7,28046.84,0.15,166878.7,44263.98,381.19,Cash on Delivery
+ORD1278,2025-10-20,CUST104,Consumer,North,Groceries,Rice 5kg,3,1215.03,0.0,3645.09,937.66,34.69,UPI
+ORD1279,2024-07-26,CUST360,Consumer,South,Stationery,Marker Set,2,679.12,0.2,1086.59,227.45,155.99,Credit Card
+ORD1280,2024-05-10,CUST153,Corporate,North,Stationery,Backpack,2,797.44,,1515.14,395.31,259.34,Net Banking
+ORD1281,2025-02-07,CUST146,Corporate,West,Clothing,Jeans,4,2712.06,0.05,10305.83,1780.33,41.63,UPI
+ORD1282,2024-05-31,CUST314,Consumer,North,Electronics,Smartwatch,1,38076.53,0.25,28557.4,-2456.57,109.3,Credit Card
+ORD1283,2024-02-23,CUST276,Corporate,West,Groceries,Beverage Crate,7,856.11,0.15,5093.85,289.99,468.58,Credit Card
+ORD1284,2024-04-29,CUST108,Corporate,Central,Electronics,Laptop,5,45477.63,0.05,216018.74,51240.96,488.88,Credit Card
+ORD1285,2025-11-03,CUST198,Consumer,North,Stationery,Printer Paper,5,886.7,0.0,4433.5,1664.14,375.08,UPI
+ORD1286,2025-09-19,CUST119,Home Office,North,Electronics,Smartphone,1,38532.6,0.1,34679.34,5842.7,141.06,Cash on Delivery
+ORD1287,2025-08-09,CUST340,Corporate,South,Groceries,Snack Pack,1,603.71,0.1,543.34,82.73,145.05,Net Banking
+ORD1288,2025-09-16,CUST160,Corporate,Central,Clothing,Jacket,3,1598.6,0.1,4316.22,1663.15,329.98,UPI
+ORD1289,2025-02-23,CUST277,Corporate,North,Furniture,Desk,5,24305.31,0.25,91144.91,8292.59,76.45,UPI
+ORD1290,2025-02-25,CUST161,Consumer,South,Electronics,Smartwatch,4,8518.38,0.15,28962.49,1602.18,475.19,UPI
+ORD1291,2024-04-13,CUST244,Consumer,North,Furniture,Bookshelf,6,7809.87,0.05,44516.26,11861.18,127.91,UPI
+ORD1292,2024-09-10,CUST315,Consumer,West,Stationery,Backpack,2,616.26,0.0,1232.52,439.5,499.83,Credit Card
+ORD1293,2024-08-14,CUST102,Consumer,South,Clothing,Cap,6,2977.53,0.05,16971.92,2473.62,257.95,Net Banking
+ORD1294,2024-04-21,CUST259,Consumer,West,Clothing,Sneakers,3,823.76,0.1,2224.15,749.38,390.29,Cash on Delivery
+ORD1295,2025-05-24,CUST326,Home Office,Central,Electronics,Tablet,5,18063.37,0.1,81285.16,26017.25,21.05,UPI
+ORD1296,2025-04-17,CUST368,Corporate,South,Clothing,T-Shirt,7,510.55,0.05,3395.16,692.57,446.6,Cash on Delivery
+ORD1297,2024-04-08,CUST219,Corporate,West,Electronics,Headphones,1,42947.15,0.05,40799.79,12638.02,149.6,UPI
+ORD1298,2024-06-01,CUST188,Home Office,North,Electronics,Tablet,7,15816.15,0.0,110713.05,26138.79,340.61,UPI
+ORD1299,2024-12-03,CUST167,Corporate,Central,Furniture,Table Lamp,7,10633.86,0.0,74437.02,29974.96,407.05,Credit Card
+ORD1300,2025-12-06,CUST197,Consumer,West,Clothing,Sneakers,5,1719.84,0.05,8169.24,2788.89,98.79,Net Banking
+ORD1301,2024-06-11,CUST366,Consumer,Central,Electronics,Tablet,4,53696.21,0.0,214784.84,86559.53,232.4,Cash on Delivery
+ORD1302,2025-12-20,CUST204,Consumer,North,Furniture,Bookshelf,3,11166.26,0.0,33498.78,5498.05,257.04,Net Banking
+ORD1303,2025-11-11,CUST222,Corporate,North,Groceries,Rice 5kg,1,303.32,0.0,303.32,99.6,169.82,Credit Card
+ORD1304,2024-06-09,CUST128,Consumer,South,Furniture,Office Chair,6,13821.4,0.1,74635.56,20635.41,251.24,Credit Card
+ORD1305,2025-08-02,CUST236,Corporate,South,Furniture,Table Lamp,4,24129.51,0.0,96518.04,43021.89,172.42,UPI
+ORD1306,2025-02-01,CUST294,Consumer,South,Electronics,Laptop,6,37245.77,0.15,189953.43,56756.91,193.16,UPI
+ORD1307,2024-10-03,CUST325,Corporate,South,Stationery,Printer Paper,2,1180.9,0.1,2125.62,528.24,341.28,UPI
+ORD1308,2025-05-18,CUST269,Corporate,North,Stationery,Marker Set,3,1017.27,0.1,2746.63,1005.42,323.64,Debit Card
+ORD1309,2025-01-26,CUST108,Corporate,South,Stationery,Pen Set,4,91.36,0.1,328.9,71.91,131.49,Net Banking
+ORD1310,2024-05-14,CUST139,Home Office,West,Furniture,Desk,4,16972.39,0.0,67889.56,21283.06,450.79,UPI
+ORD1311,2024-07-13,CUST124,Corporate,East,Electronics,Tablet,6,18632.48,0.05,106205.14,18988.31,434.14,Credit Card
+ORD1312,2025-02-04,CUST360,Home Office,North,Clothing,Jeans,1,2090.77,0.25,1568.08,4.31,264.36,Credit Card
+ORD1313,2025-10-01,CUST325,Home Office,South,Furniture,Bookshelf,2,8064.61,,13709.84,2680.93,227.96,Net Banking
+ORD1314,2024-02-02,CUST223,Corporate,North,Furniture,Sofa,6,9698.45,0.25,43643.02,7716.19,200.89,Cash on Delivery
+ORD1315,2025-11-18,CUST137,Corporate,Central,Electronics,Smartphone,4,55543.79,,199957.64,29313.99,359.49,Net Banking
+ORD1316,2025-04-04,CUST350,Consumer,North,Groceries,Snack Pack,3,389.3,0.0,1167.9,277.54,342.4,UPI
+ORD1317,2025-04-14,CUST275,Consumer,West,Furniture,Desk,4,22041.56,0.0,88166.24,35620.14,114.17,Credit Card
+ORD1318,2025-01-09,CUST189,Corporate,Central,Groceries,Spices Combo,5,142.64,0.1,641.88,53.9,342.3,Debit Card
+ORD1319,2024-01-22,CUST136,Consumer,West,Groceries,Spices Combo,3,227.23,0.05,647.61,259.51,141.17,Debit Card
+ORD1320,2025-10-31,CUST275,Consumer,West,Stationery,Pen Set,3,1032.88,0.0,3098.64,1343.23,28.91,UPI
+ORD1321,2024-02-07,CUST383,Home Office,West,Electronics,Headphones,4,38572.25,0.15,131145.65,37614.87,355.62,Credit Card
+ORD1322,2024-08-17,CUST180,Home Office,Central,Groceries,Beverage Crate,1,1146.13,0.05,1088.82,145.74,329.5,UPI
+ORD1323,2024-12-30,CUST213,Corporate,East,Electronics,Headphones,3,14146.22,0.0,42438.66,12476.99,217.19,Cash on Delivery
+ORD1324,2025-07-16,CUST139,Consumer,East,Stationery,Pen Set,5,667.65,0.15,2837.51,212.37,272.33,Net Banking
+ORD1325,2025-03-13,CUST323,Consumer,East,Electronics,Smartphone,6,44758.71,0.15,228269.42,62209.34,474.64,Net Banking
+ORD1326,2024-10-09,CUST214,Consumer,East,Furniture,Office Chair,1,16241.88,0.05,15429.79,4108.12,305.7,Credit Card
+ORD1327,2024-01-27,CUST285,Consumer,East,Groceries,Beverage Crate,1,760.38,0.15,646.32,146.38,335.78,Credit Card
+ORD1328,2024-08-13,CUST155,Consumer,East,Electronics,Headphones,1,57667.46,0.15,49017.34,2978.61,50.68,Credit Card
+ORD1329,2024-10-03,CUST139,Consumer,North,Clothing,Cap,3,2463.7,0.05,7021.54,2906.31,99.68,Cash on Delivery
+ORD1330,2025-08-31,CUST139,Home Office,North,Electronics,Laptop,1,54649.55,0.0,54649.55,20594.53,164.46,UPI
+ORD1331,2024-10-10,CUST336,Corporate,North,Groceries,Spices Combo,4,1121.68,0.0,4486.72,1813.66,278.9,Net Banking
+ORD1332,2025-04-25,CUST388,Consumer,South,Stationery,Printer Paper,1,895.78,0.05,850.99,127.42,392.76,Credit Card
+ORD1333,2025-03-28,CUST361,Consumer,North,Stationery,Pen Set,5,142.02,0.0,710.1,219.94,174.2,Debit Card
+ORD1334,2025-10-20,CUST315,Consumer,East,Groceries,Beverage Crate,2,603.25,0.25,904.88,95.0,191.06,Cash on Delivery
+ORD1335,2025-05-30,CUST246,Consumer,South,Furniture,Office Chair,5,21671.68,0.15,92104.64,17895.95,142.95,Credit Card
+ORD1336,2025-06-30,CUST267,Home Office,West,Furniture,Sofa,3,6966.19,0.15,17763.78,176.02,142.21,Cash on Delivery
+ORD1337,2024-07-10,CUST191,Consumer,North,Stationery,Notebook Pack,1,182.83,0.25,137.12,-10.07,475.45,Credit Card
+ORD1338,2024-02-18,CUST158,Consumer,South,Stationery,Marker Set,1,425.02,0.2,340.02,16.19,325.02,Credit Card
+ORD1339,2025-05-26,CUST158,Consumer,West,Groceries,Spices Combo,4,408.61,0.0,1634.44,593.07,94.83,Credit Card
+ORD1340,2024-01-17,CUST268,Consumer,East,Furniture,Office Chair,6,23244.27,0.0,139465.62,55848.74,366.68,Cash on Delivery
+ORD1341,2024-06-20,CUST368,Corporate,North,Stationery,Backpack,1,1048.16,0.1,943.34,77.11,366.57,Cash on Delivery
+ORD1342,2024-08-07,CUST144,Corporate,Central,Furniture,Office Chair,7,13242.56,0.05,88063.02,25313.7,339.91,UPI
+ORD1343,2024-06-06,CUST280,Corporate,Central,Stationery,Pen Set,5,120.55,0.05,572.61,190.69,84.67,Net Banking
+ORD1344,2025-04-21,CUST269,Consumer,South,Electronics,Tablet,3,43444.62,0.1,117300.47,27203.77,215.84,Net Banking
+ORD1345,2024-02-15,CUST290,Corporate,South,Clothing,Jeans,2,2294.92,0.2,3671.87,-116.37,71.24,Cash on Delivery
+ORD1346,2025-01-07,CUST254,Corporate,Central,Electronics,Tablet,1,58292.17,0.05,55377.56,16547.97,411.98,Credit Card
+ORD1347,2025-06-01,CUST287,Home Office,East,Stationery,Marker Set,2,692.8,0.15,1177.76,181.8,334.48,UPI
+ORD1348,2024-04-08,CUST106,Consumer,East,Clothing,Jacket,1,1376.46,0.0,1376.46,287.83,263.46,Net Banking
+ORD1349,2024-02-06,CUST232,Consumer,West,Clothing,Jeans,3,1960.87,0.1,5294.35,1305.12,184.65,Credit Card
+ORD1350,2024-10-06,CUST334,Corporate,South,Stationery,Pen Set,6,1176.15,0.0,7056.9,2681.18,108.44,UPI
+ORD1351,2024-12-14,CUST144,Corporate,South,Stationery,Printer Paper,5,850.82,0.2,3403.28,-205.72,71.09,Net Banking
+ORD1352,2025-05-11,CUST348,Consumer,South,Furniture,Sofa,3,17291.44,0.0,51874.32,8457.01,485.24,Credit Card
+ORD1353,2024-10-28,CUST130,Consumer,West,Stationery,Pen Set,2,326.78,0.1,588.2,63.36,115.83,Debit Card
+ORD1354,2024-06-29,CUST122,Consumer,East,Groceries,Rice 5kg,1,1141.04,0.0,1141.04,277.83,48.74,Credit Card
+ORD1355,2025-08-29,CUST259,Home Office,West,Stationery,Printer Paper,2,912.81,0.0,1825.62,660.04,481.6,Debit Card
+ORD1356,2024-04-08,CUST257,Consumer,South,Groceries,Cooking Oil,5,544.2,0.05,2584.95,342.78,283.5,Credit Card
+ORD1357,2025-11-30,CUST138,Home Office,South,Stationery,Backpack,7,606.27,0.05,4031.7,1346.73,402.4,Credit Card
+ORD1358,2024-04-25,CUST181,Consumer,East,Furniture,Bookshelf,3,8423.18,0.0,25269.54,5300.47,41.01,Credit Card
+ORD1359,2024-07-09,CUST357,Home Office,West,Groceries,Spices Combo,2,462.19,0.0,924.38,161.33,292.13,Net Banking
+ORD1360,2024-09-09,CUST305,Corporate,East,Electronics,Headphones,2,3501.97,0.1,6303.55,1184.36,211.14,Net Banking
+ORD1361,2024-06-09,CUST176,Consumer,North,Groceries,Snack Pack,5,499.3,0.1,2246.85,272.33,390.54,Credit Card
+ORD1362,2024-09-12,CUST111,Home Office,Central,Furniture,Table Lamp,7,14518.29,0.0,101628.03,21595.09,38.44,Credit Card
+ORD1363,2024-11-18,CUST394,Consumer,North,Groceries,Beverage Crate,1,102.24,0.1,92.02,29.86,212.81,UPI
+ORD1364,2024-05-07,CUST323,Home Office,Central,Stationery,Marker Set,7,375.7,0.0,2629.9,656.48,403.56,UPI
+ORD1365,2024-01-18,CUST112,Corporate,North,Stationery,Marker Set,2,1063.62,0.05,2020.88,791.25,270.89,Net Banking
+ORD1366,2025-07-19,CUST145,Consumer,West,Furniture,Sofa,5,15450.74,0.0,77253.7,22994.17,284.02,Credit Card
+ORD1367,2025-07-23,CUST254,Corporate,North,Clothing,Cap,1,2245.16,0.1,2020.64,676.53,66.64,UPI
+ORD1368,2024-11-18,CUST212,Home Office,Central,Stationery,Printer Paper,7,513.87,0.0,3597.09,1169.4,83.52,Net Banking
+ORD1369,2025-11-16,CUST332,Consumer,East,Electronics,Smartphone,7,41235.38,0.25,216485.74,-14401.97,344.96,Debit Card
+ORD1370,2025-09-17,CUST116,Corporate,North,Furniture,Table Lamp,7,5963.42,,41743.94,6422.29,344.02,Net Banking
+ORD1371,2024-10-14,CUST322,Corporate,South,Groceries,Snack Pack,6,1246.25,0.0,7477.5,2651.61,489.97,Credit Card
+ORD1372,2025-10-24,CUST287,Corporate,North,Groceries,Cooking Oil,1,263.36,0.0,263.36,76.48,361.74,Credit Card
+ORD1373,2025-09-30,CUST262,Consumer,North,Electronics,Smartphone,7,40048.08,0.2,224269.25,27083.48,256.76,UPI
+ORD1374,2024-06-03,CUST173,Consumer,Central,Stationery,Marker Set,6,442.32,0.1,2388.53,169.0,431.52,UPI
+ORD1375,2025-05-04,CUST332,Consumer,East,Furniture,Desk,3,19066.55,0.1,51479.68,11807.43,70.15,Cash on Delivery
+ORD1376,2025-01-20,CUST323,Corporate,West,Electronics,Tablet,5,33886.34,0.2,135545.36,6822.7,235.66,Net Banking
+ORD1377,2024-04-13,CUST159,Consumer,East,Stationery,Backpack,7,570.21,0.2,3193.18,-105.92,157.81,UPI
+ORD1378,2025-01-27,CUST321,Home Office,West,Furniture,Bookshelf,1,5481.43,,4933.29,1304.51,70.23,UPI
+ORD1379,2024-09-02,CUST136,Consumer,North,Groceries,Spices Combo,6,991.55,0.0,5949.3,1067.09,386.48,UPI
+ORD1380,2024-06-24,CUST377,Corporate,South,Furniture,Bookshelf,6,24407.09,0.15,124476.16,3626.38,265.18,Credit Card
+ORD1381,2024-02-08,CUST295,Consumer,West,Clothing,Jacket,3,2941.93,0.0,8825.79,1507.46,287.25,Credit Card
+ORD1382,2025-04-21,CUST341,Consumer,Central,Furniture,Office Chair,4,2910.19,0.1,10476.68,3129.8,217.4,UPI
+ORD1383,2025-11-12,CUST318,Consumer,South,Clothing,Cap,5,1503.93,0.1,6767.68,1728.71,240.96,Credit Card
+ORD1384,2025-06-21,CUST291,Consumer,South,Furniture,Table Lamp,4,23251.2,0.15,79054.08,3616.14,75.69,Credit Card
+ORD1385,2025-02-11,CUST116,Corporate,East,Clothing,Jeans,1,1909.74,0.05,1814.25,558.12,343.0,Credit Card
+ORD1386,2025-06-08,CUST111,Home Office,Central,Groceries,Snack Pack,5,1026.96,0.1,4621.32,872.53,227.57,Credit Card
+ORD1387,2025-05-20,CUST292,Corporate,South,Stationery,Backpack,3,1099.49,0.25,2473.85,542.87,412.05,Credit Card
+ORD1388,2024-02-05,CUST121,Home Office,South,Clothing,Jacket,1,3096.14,0.0,3096.14,1340.99,114.22,Net Banking
+ORD1389,2025-11-15,CUST219,Home Office,Central,Clothing,Cap,5,1905.83,0.0,9529.15,3110.33,118.43,UPI
+ORD1390,2024-01-20,CUST309,Corporate,North,Groceries,Beverage Crate,5,712.7,0.1,3207.15,628.33,329.96,UPI
+ORD1391,2024-11-16,CUST369,Corporate,North,Clothing,Jacket,4,1387.02,0.25,4161.06,456.0,426.08,UPI
+ORD1392,2025-05-26,CUST291,Corporate,East,Electronics,Headphones,1,43703.13,0.0,43703.13,12091.75,246.65,Debit Card
+ORD1393,2025-02-03,CUST274,Consumer,Central,Groceries,Cooking Oil,3,501.78,0.0,1505.34,444.79,368.94,Credit Card
+ORD1394,2025-10-15,CUST384,Corporate,South,Electronics,Laptop,3,16493.48,,49480.44,12087.47,499.68,UPI
+ORD1395,2025-04-15,CUST303,Consumer,East,Groceries,Snack Pack,1,598.75,0.0,598.75,152.77,495.33,Credit Card
+ORD1396,2024-05-22,CUST263,Corporate,East,Clothing,T-Shirt,1,867.09,0.2,693.67,106.41,377.28,UPI
+ORD1397,2024-04-01,CUST350,Corporate,East,Electronics,Tablet,6,42316.95,0.1,228511.53,56493.49,375.0,Debit Card
+ORD1398,2024-12-19,CUST326,Consumer,East,Clothing,Jeans,2,2271.97,0.1,4089.55,1398.48,138.86,Net Banking
+ORD1399,2025-12-27,CUST106,Consumer,East,Groceries,Snack Pack,4,776.03,0.05,2948.91,763.7,420.1,Net Banking
+ORD1400,2024-02-20,CUST128,Home Office,East,Clothing,Sneakers,1,1549.04,0.15,1316.68,191.84,214.45,UPI
+ORD1401,2025-10-26,CUST132,Corporate,East,Electronics,Laptop,1,54725.63,0.0,54725.63,16803.68,481.76,Net Banking
+ORD1402,2025-11-28,CUST233,Consumer,East,Electronics,Smartphone,2,3689.18,0.05,7009.44,2230.39,59.09,Credit Card
+ORD1403,2025-07-28,CUST178,Corporate,East,Clothing,Jacket,2,2761.14,0.05,5246.17,1013.37,229.2,UPI
+ORD1404,2024-07-08,CUST157,Corporate,Central,Furniture,Office Chair,5,22694.87,0.0,113474.35,48521.8,286.8,UPI
+ORD1405,2024-05-04,CUST125,Consumer,North,Groceries,Snack Pack,7,724.9,0.05,4820.58,637.67,214.47,UPI
+ORD1406,2024-05-29,CUST325,Home Office,West,Groceries,Snack Pack,3,870.97,0.0,2612.91,1159.63,121.08,Credit Card
+ORD1407,2024-11-09,CUST384,Corporate,Central,Clothing,Sneakers,4,3322.28,0.0,13289.12,2143.47,304.63,Cash on Delivery
+ORD1408,2025-07-23,CUST103,Consumer,South,Furniture,Office Chair,5,6488.52,0.0,32442.6,10099.16,382.84,Credit Card
+ORD1409,2024-12-07,CUST198,Corporate,East,Electronics,Headphones,1,32167.82,0.15,27342.65,5667.94,329.52,Credit Card
+ORD1410,2024-10-31,CUST138,Home Office,South,Stationery,Printer Paper,2,595.93,0.0,1191.86,444.64,132.54,UPI
+ORD1411,2025-11-22,CUST370,Consumer,North,Stationery,Backpack,6,347.15,0.2,1666.32,514.43,371.17,Credit Card
+ORD1412,2025-11-12,CUST384,Consumer,South,Clothing,Jacket,3,2919.5,0.0,8758.5,3219.3,143.31,Net Banking
+ORD1413,2024-02-23,CUST256,Consumer,North,Furniture,Desk,5,22640.61,0.15,96222.59,30245.59,104.1,UPI
+ORD1414,2025-03-19,CUST174,Corporate,South,Furniture,Bookshelf,6,19875.42,0.2,95402.02,6207.54,351.52,Net Banking
+ORD1415,2025-09-04,CUST387,Corporate,West,Groceries,Cooking Oil,3,373.5,0.2,896.4,172.87,424.54,UPI
+ORD1416,2024-09-20,CUST229,Corporate,South,Electronics,Smartwatch,7,7031.42,0.15,41836.95,3437.83,251.14,Net Banking
+ORD1417,2024-02-22,CUST274,Home Office,West,Furniture,Table Lamp,7,15727.95,0.0,110095.65,42708.87,275.07,Cash on Delivery
+ORD1418,2025-07-25,CUST183,Corporate,East,Stationery,Pen Set,6,115.66,0.0,693.96,124.86,165.32,UPI
+ORD1419,2025-09-11,CUST121,Consumer,Central,Electronics,Tablet,2,41023.9,0.05,77945.41,19946.28,257.42,UPI
+ORD1420,2024-01-05,CUST126,Consumer,East,Electronics,Headphones,5,32764.6,0.0,163823.0,68092.73,83.35,Cash on Delivery
+ORD1421,2024-04-12,CUST294,Consumer,North,Clothing,Jeans,5,2420.91,0.0,12104.55,3991.43,478.8,Credit Card
+ORD1422,2024-07-14,CUST335,Consumer,West,Furniture,Bookshelf,7,15369.01,0.15,91445.61,25601.74,404.17,UPI
+ORD1423,2024-12-15,CUST191,Corporate,North,Clothing,Sneakers,3,1652.65,0.1,4462.16,1438.28,340.63,Credit Card
+ORD1424,2024-02-16,CUST120,Home Office,East,Furniture,Table Lamp,6,6220.61,0.1,33591.29,7393.41,278.33,Credit Card
+ORD1425,2025-10-17,CUST183,Consumer,Central,Groceries,Cooking Oil,2,527.98,0.2,844.77,51.14,400.24,Credit Card
+ORD1426,2024-09-25,CUST361,Corporate,North,Clothing,Jeans,1,1978.4,0.1,1780.56,151.38,257.48,UPI
+ORD1427,2025-01-04,CUST246,Corporate,South,Clothing,Sneakers,5,2385.98,0.1,10736.91,2378.24,163.99,Net Banking
+ORD1428,2025-09-27,CUST356,Consumer,West,Stationery,Backpack,1,946.41,0.15,804.45,9.7,96.98,Credit Card
+ORD1429,2024-04-15,CUST157,Consumer,Central,Clothing,Cap,2,2754.95,0.0,5509.9,922.96,330.84,Cash on Delivery
+ORD1430,2025-10-31,CUST114,Consumer,West,Furniture,Office Chair,7,24358.19,0.05,161981.96,23953.08,466.12,UPI
+ORD1431,2025-10-20,CUST261,Consumer,South,Stationery,Notebook Pack,5,378.72,0.25,1420.2,94.69,93.74,Debit Card
+ORD1432,2025-10-18,CUST262,Home Office,West,Clothing,Jacket,5,527.55,0.2,2110.2,547.94,106.41,Debit Card
+ORD1433,2024-04-29,CUST380,Consumer,South,Clothing,Jeans,6,1406.1,0.2,6749.28,1557.64,228.13,Net Banking
+ORD1434,2025-08-26,CUST379,Consumer,West,Groceries,Spices Combo,1,1140.61,0.05,1083.58,234.62,407.31,Debit Card
+ORD1435,2024-02-27,CUST111,Consumer,Central,Clothing,Jeans,7,1701.96,0.15,10126.66,2066.71,161.08,Net Banking
+ORD1436,2024-12-11,CUST373,Home Office,West,Electronics,Tablet,6,49431.73,0.0,296590.38,120403.69,141.88,Cash on Delivery
+ORD1437,2025-04-18,CUST370,Consumer,Central,Stationery,Marker Set,4,681.73,0.0,2726.92,835.26,317.58,Credit Card
+ORD1438,2024-04-26,CUST307,Consumer,North,Electronics,Tablet,1,55927.92,0.05,53131.52,22078.71,277.1,UPI
+ORD1439,2024-05-06,CUST126,Consumer,West,Stationery,Pen Set,1,1140.04,0.05,1083.04,205.02,48.91,Net Banking
+ORD1440,2025-01-27,CUST171,Consumer,West,Groceries,Beverage Crate,4,197.03,0.0,788.12,337.26,59.12,UPI
+ORD1441,2025-10-02,CUST159,Consumer,North,Clothing,Jeans,2,1760.52,0.05,3344.99,743.88,328.65,Cash on Delivery
+ORD1442,2024-02-27,CUST244,Corporate,Central,Clothing,Cap,2,2251.0,0.0,4502.0,954.86,243.26,Cash on Delivery
+ORD1443,2025-09-25,CUST192,Consumer,South,Clothing,Jacket,5,1118.79,0.05,5314.25,2014.98,486.07,Credit Card
+ORD1444,2025-05-27,CUST107,Consumer,West,Stationery,Notebook Pack,3,518.14,0.15,1321.26,224.47,345.7,Cash on Delivery
+ORD1445,2024-04-05,CUST178,Corporate,West,Clothing,Cap,6,2468.58,0.1,13330.33,1722.27,24.84,Credit Card
+ORD1446,2025-09-29,CUST126,Consumer,West,Electronics,Laptop,3,15150.59,0.0,45451.77,16899.42,250.89,UPI
+ORD1447,2024-04-27,CUST273,Consumer,North,Clothing,Sneakers,5,2226.34,0.05,10575.12,3908.62,218.94,UPI
+ORD1448,2025-07-13,CUST149,Consumer,East,Groceries,Spices Combo,3,1076.43,0.1,2906.36,803.94,71.22,Credit Card
+ORD1449,2025-08-23,CUST298,Home Office,East,Electronics,Laptop,1,7248.79,0.05,6886.35,1693.25,463.14,UPI
+ORD1450,2025-05-02,CUST280,Consumer,Central,Clothing,Cap,1,1892.09,0.05,1797.49,430.3,406.41,UPI
+ORD1451,2024-08-24,CUST123,Home Office,South,Clothing,Jeans,4,1141.86,,4110.7,1419.28,130.44,Credit Card
+ORD1452,2024-09-28,CUST145,Corporate,South,Furniture,Desk,4,18523.08,0.25,55569.24,4647.76,142.87,Net Banking
+ORD1453,2024-07-07,CUST114,Consumer,West,Stationery,Pen Set,5,267.99,0.0,1339.95,495.13,35.37,UPI
+ORD1454,2025-12-04,CUST252,Home Office,South,Electronics,Smartphone,5,53749.8,0.05,255311.55,39611.65,162.42,UPI
+ORD1455,2025-03-22,CUST321,Consumer,West,Furniture,Desk,7,11627.12,0.05,77320.35,24899.39,300.62,Credit Card
+ORD1456,2025-08-03,CUST305,Consumer,West,Groceries,Rice 5kg,5,377.2,0.1,1697.4,185.56,222.0,Cash on Delivery
+ORD1457,2024-09-03,CUST372,Corporate,Central,Stationery,Printer Paper,1,553.73,0.0,553.73,177.99,485.24,Cash on Delivery
+ORD1458,2024-03-16,CUST335,Corporate,East,Electronics,Headphones,3,25707.14,0.0,77121.42,17894.04,46.92,Credit Card
+ORD1459,2024-06-02,CUST327,Corporate,East,Clothing,Cap,6,1672.54,0.0,10035.24,2980.28,303.89,Credit Card
+ORD1460,2025-10-17,CUST108,Consumer,North,Electronics,Tablet,7,35962.56,0.25,188803.44,3376.11,431.99,Cash on Delivery
+ORD1461,2025-03-10,CUST265,Consumer,North,Clothing,Jacket,7,1967.76,0.1,12396.89,3187.28,250.76,UPI
+ORD1462,2024-03-26,CUST313,Corporate,North,Stationery,Marker Set,7,222.24,0.1,1400.11,185.96,21.42,Credit Card
+ORD1463,2025-11-27,CUST216,Consumer,North,Clothing,Sneakers,5,509.85,0.15,2166.86,439.6,136.54,UPI
+ORD1464,2024-10-11,CUST171,Consumer,East,Groceries,Cooking Oil,5,1121.18,0.0,5605.9,1753.31,175.41,UPI
+ORD1465,2024-08-07,CUST163,Consumer,West,Clothing,Jeans,1,2091.1,0.15,1777.44,302.58,483.68,Net Banking
+ORD1466,2024-03-09,CUST304,Consumer,East,Groceries,Rice 5kg,6,602.6,0.1,3254.04,363.2,457.65,Credit Card
+ORD1467,2024-02-16,CUST308,Home Office,West,Stationery,Marker Set,1,979.61,0.0,979.61,247.04,475.6,UPI
+ORD1468,2024-04-03,CUST171,Consumer,Central,Stationery,Notebook Pack,6,496.27,0.15,2530.98,581.39,416.36,Credit Card
+ORD1469,2025-03-28,CUST376,Home Office,West,Electronics,Smartphone,1,48165.98,0.15,40941.08,4763.81,188.79,Debit Card
+ORD1470,2024-07-22,CUST373,Consumer,West,Groceries,Cooking Oil,3,528.06,0.15,1346.55,169.94,454.82,Net Banking
+ORD1471,2024-08-05,CUST194,Corporate,East,Groceries,Spices Combo,5,201.98,0.0,1009.9,172.38,491.21,Net Banking
+ORD1472,2025-04-18,CUST265,Consumer,East,Furniture,Sofa,2,23417.03,0.25,35125.54,-2455.28,188.03,Net Banking
+ORD1473,2025-03-07,CUST131,Consumer,North,Furniture,Sofa,2,10771.95,0.25,16157.92,124.22,145.07,UPI
+ORD1474,2024-12-06,CUST110,Consumer,South,Furniture,Table Lamp,5,20128.28,0.05,95609.33,29945.63,282.52,Debit Card
+ORD1475,2025-07-04,CUST316,Consumer,Central,Clothing,Cap,7,1193.26,0.0,8352.82,1805.27,109.83,Credit Card
+ORD1476,2025-09-03,CUST388,Consumer,West,Furniture,Office Chair,5,16689.58,0.0,83447.9,23151.58,35.66,Cash on Delivery
+ORD1477,2024-10-15,CUST201,Home Office,North,Groceries,Spices Combo,5,1322.64,0.25,4959.9,-632.1,474.0,Credit Card
+ORD1478,2024-09-10,CUST366,Corporate,East,Clothing,Sneakers,5,433.26,0.1,1949.67,597.35,464.36,UPI
+ORD1479,2024-12-22,CUST313,Consumer,West,Stationery,Marker Set,7,1005.23,0.05,6684.78,2646.49,98.07,UPI
+ORD1480,2024-01-23,CUST278,Consumer,North,Electronics,Headphones,6,35137.31,0.0,210823.86,90450.28,215.72,Net Banking
+ORD1481,2025-06-05,CUST187,Consumer,South,Furniture,Office Chair,3,15775.59,0.0,47326.77,12209.88,418.9,Cash on Delivery
+ORD1482,2024-04-09,CUST140,Corporate,Central,Stationery,Notebook Pack,2,651.63,0.1,1172.93,88.91,337.28,UPI
+ORD1483,2024-06-28,CUST175,Corporate,South,Groceries,Rice 5kg,4,1324.27,0.05,5032.23,2115.77,209.5,UPI
+ORD1484,2024-08-10,CUST145,Home Office,North,Electronics,Laptop,2,4519.13,0.25,6778.7,-160.26,377.2,Debit Card
+ORD1485,2025-10-20,CUST259,Consumer,East,Stationery,Marker Set,2,350.18,0.1,630.32,107.07,450.58,Credit Card
+ORD1486,2025-03-17,CUST179,Consumer,Central,Electronics,Smartphone,7,52794.23,0.15,314125.67,29678.87,464.56,Cash on Delivery
+ORD1487,2025-08-30,CUST185,Consumer,East,Furniture,Table Lamp,1,19180.12,0.0,19180.12,6586.04,201.85,UPI
+ORD1488,2024-11-20,CUST191,Corporate,South,Groceries,Snack Pack,5,124.7,0.0,623.5,127.1,103.31,UPI
+ORD1489,2025-05-30,CUST247,Corporate,South,Electronics,Headphones,5,31986.36,0.05,151935.21,61827.7,458.16,Credit Card
+ORD1490,2024-01-16,CUST260,Corporate,East,Stationery,Printer Paper,5,659.01,0.0,3295.05,736.02,64.43,UPI
+ORD1491,2024-12-01,CUST301,Corporate,East,Furniture,Sofa,1,10920.73,0.0,10920.73,4039.34,366.41,Credit Card
+ORD1492,2024-09-14,CUST341,Consumer,West,Furniture,Sofa,7,8488.74,0.25,44565.88,3383.95,87.44,Credit Card
+ORD1493,2025-05-11,CUST101,Corporate,North,Stationery,Marker Set,3,833.98,0.05,2376.84,383.32,206.91,Credit Card
+ORD1494,2024-06-08,CUST324,Consumer,Central,Stationery,Marker Set,3,288.96,0.0,866.88,319.53,217.55,UPI
+ORD1495,2025-04-19,CUST388,Corporate,North,Electronics,Smartphone,7,48339.02,0.0,338373.14,133467.14,96.2,UPI
+ORD1496,2025-10-25,CUST332,Consumer,South,Clothing,Jeans,4,2869.72,0.0,11478.88,2819.28,462.89,Cash on Delivery
+ORD1497,2025-11-20,CUST176,Consumer,North,Furniture,Sofa,3,11258.64,0.25,25331.94,1350.41,21.28,Credit Card
+ORD1498,2025-11-05,CUST215,Home Office,South,Electronics,Headphones,7,18445.78,0.0,129120.46,38178.19,449.03,UPI
+ORD1499,2025-01-14,CUST253,Home Office,East,Stationery,Printer Paper,3,376.46,0.0,1129.38,421.22,444.24,UPI
+ORD1500,2025-06-28,CUST202,Corporate,East,Electronics,Smartphone,5,29972.9,0.1,134878.05,50884.38,172.14,UPI
+ORD1501,2025-11-21,CUST293,Consumer,North,Stationery,Pen Set,6,877.52,0.0,5265.12,1721.27,358.06,Cash on Delivery
+ORD1502,2025-03-02,CUST265,Corporate,West,Groceries,Rice 5kg,7,602.42,0.0,4216.94,1762.82,141.35,UPI
+ORD1503,2025-09-04,CUST189,Consumer,North,Stationery,Notebook Pack,2,751.55,,1503.1,267.86,384.21,Cash on Delivery
+ORD1504,2024-09-24,CUST273,Home Office,West,Stationery,Marker Set,3,489.86,0.0,1469.58,643.12,289.34,UPI
+ORD1505,2025-07-30,CUST221,Consumer,Central,Stationery,Printer Paper,3,400.2,0.0,1200.6,384.8,164.11,UPI
+ORD1506,2025-02-20,CUST242,Home Office,South,Clothing,T-Shirt,1,379.55,0.0,379.55,164.85,212.11,UPI
+ORD1507,2024-06-16,CUST205,Home Office,East,Stationery,Pen Set,4,54.5,0.15,185.3,59.15,351.15,Cash on Delivery
+ORD1508,2024-02-12,CUST222,Corporate,South,Furniture,Bookshelf,6,6839.38,0.0,41036.28,10355.09,454.93,Debit Card
+ORD1509,2025-07-09,CUST108,Consumer,North,Furniture,Sofa,1,11050.55,0.15,9392.97,1169.89,82.75,UPI
+ORD1510,2024-10-11,CUST361,Consumer,South,Electronics,Headphones,5,51373.15,0.15,218335.89,74512.73,294.25,Cash on Delivery
+ORD1511,2025-01-31,CUST172,Home Office,West,Clothing,Cap,2,2855.15,0.05,5424.78,2282.18,141.79,Credit Card
+ORD1512,2024-01-12,CUST322,Consumer,East,Electronics,Laptop,4,17495.59,0.0,69982.36,29837.3,404.66,Cash on Delivery
+ORD1513,2025-08-29,CUST140,Home Office,North,Furniture,Table Lamp,1,7246.7,0.0,7246.7,1602.25,53.71,Credit Card
+ORD1514,2024-10-28,CUST303,Consumer,Central,Furniture,Bookshelf,7,6842.07,0.1,43105.04,8363.67,350.7,Credit Card
+ORD1515,2024-09-09,CUST363,Consumer,East,Groceries,Spices Combo,3,574.93,0.1,1552.31,583.95,103.97,Credit Card
+ORD1516,2025-05-13,CUST277,Home Office,Central,Stationery,Pen Set,3,622.93,0.1,1681.91,380.43,306.27,Debit Card
+ORD1517,2024-02-04,CUST183,Corporate,East,Furniture,Bookshelf,4,11808.69,0.0,47234.76,11165.88,421.13,Cash on Delivery
+ORD1518,2025-12-27,CUST210,Corporate,East,Electronics,Smartphone,3,14659.85,0.2,35183.64,-469.94,382.44,Cash on Delivery
+ORD1519,2024-03-30,CUST350,Corporate,North,Electronics,Smartphone,7,9566.18,0.0,66963.26,11369.63,381.41,Cash on Delivery
+ORD1520,2025-08-27,CUST106,Consumer,North,Stationery,Pen Set,1,64.46,0.05,61.24,19.45,268.57,UPI
+ORD1521,2025-08-24,CUST183,Corporate,Central,Stationery,Backpack,1,227.06,0.05,215.71,81.57,447.56,Debit Card
+ORD1522,2025-02-21,CUST307,Consumer,South,Groceries,Spices Combo,3,1087.5,0.0,3262.5,1236.23,302.29,Debit Card
+ORD1523,2024-04-24,CUST121,Home Office,Central,Clothing,Sneakers,3,1079.64,0.05,3076.97,541.38,460.41,UPI
+ORD1524,2025-09-08,CUST102,Home Office,East,Electronics,Smartwatch,5,29178.9,0.15,124010.32,1248.08,282.33,Credit Card
+ORD1525,2024-07-14,CUST226,Consumer,North,Stationery,Notebook Pack,2,730.0,0.15,1241.0,233.72,262.86,Net Banking
+ORD1526,2025-05-15,CUST396,Corporate,North,Electronics,Headphones,4,53436.77,0.2,170997.66,33856.26,126.73,Debit Card
+ORD1527,2025-09-17,CUST287,Corporate,North,Stationery,Notebook Pack,1,1072.18,0.05,1018.57,290.82,281.5,Cash on Delivery
+ORD1528,2025-05-07,CUST113,Consumer,Central,Furniture,Desk,4,19024.74,0.1,68489.06,19675.84,87.48,Cash on Delivery
+ORD1529,2024-03-15,CUST111,Home Office,South,Electronics,Headphones,5,4039.11,0.0,20195.55,7534.03,437.45,Debit Card
+ORD1530,2025-02-16,CUST186,Consumer,South,Furniture,Table Lamp,1,15014.15,0.05,14263.44,3331.26,344.43,Cash on Delivery
+ORD1531,2025-01-10,CUST111,Consumer,South,Electronics,Smartwatch,5,47621.84,0.0,238109.2,106025.08,496.95,Net Banking
+ORD1532,2025-02-23,CUST124,Consumer,North,Clothing,Cap,5,355.32,0.05,1687.77,572.3,64.21,Net Banking
+ORD1533,2025-12-29,CUST342,Consumer,East,Groceries,Rice 5kg,6,869.56,0.0,5217.36,1312.61,135.52,Credit Card
+ORD1534,2024-10-03,CUST221,Corporate,North,Furniture,Desk,3,21657.46,0.05,61723.76,25363.99,441.04,UPI
+ORD1535,2025-11-06,CUST246,Corporate,West,Stationery,Printer Paper,7,595.22,0.1,3749.89,1354.29,209.72,UPI
+ORD1536,2025-01-28,CUST154,Corporate,South,Clothing,Sneakers,6,313.14,0.2,1503.07,304.33,243.83,Cash on Delivery
+ORD1537,2025-04-01,CUST337,Corporate,South,Electronics,Tablet,4,2638.77,0.05,10027.33,1442.45,433.11,UPI
+ORD1538,2024-07-10,CUST272,Consumer,East,Furniture,Bookshelf,7,11290.95,0.25,59277.49,-2328.88,270.48,Credit Card
+ORD1539,2025-11-19,CUST320,Consumer,East,Electronics,Tablet,4,10990.5,0.15,37367.7,12896.39,112.87,Credit Card
+ORD1540,2024-04-08,CUST218,Consumer,Central,Electronics,Headphones,3,40538.14,0.05,115533.7,30341.12,448.17,Net Banking
+ORD1541,2025-07-01,CUST282,Consumer,East,Electronics,Smartphone,7,43110.36,0.1,271595.27,80752.44,34.91,UPI
+ORD1542,2024-04-05,CUST387,Corporate,North,Groceries,Snack Pack,6,349.03,0.0,2094.18,534.87,449.79,UPI
+ORD1543,2025-10-25,CUST399,Consumer,East,Groceries,Beverage Crate,4,1343.95,0.15,4569.43,449.06,44.25,Credit Card
+ORD1544,2025-10-24,CUST181,Consumer,North,Stationery,Backpack,6,558.19,0.1,3014.23,305.25,339.61,UPI
+ORD1545,2024-07-08,CUST310,Consumer,North,Furniture,Desk,3,4856.88,0.25,10927.98,835.99,54.41,Credit Card
+ORD1546,2024-02-06,CUST249,Home Office,Central,Clothing,T-Shirt,7,2745.61,0.1,17297.34,992.96,358.98,UPI
+ORD1547,2025-01-03,CUST136,Home Office,West,Clothing,Jacket,7,2827.92,0.15,16826.12,118.85,36.31,UPI
+ORD1548,2025-11-25,CUST158,Corporate,Central,Clothing,T-Shirt,1,2345.75,0.15,1993.89,82.92,424.38,UPI
+ORD1549,2025-06-08,CUST230,Home Office,East,Electronics,Smartphone,5,51501.0,0.0,257505.0,71467.72,243.65,UPI
+ORD1550,2024-10-05,CUST301,Corporate,East,Groceries,Snack Pack,5,1132.32,0.0,5661.6,1871.71,64.86,Credit Card
+ORD1551,2024-08-04,CUST342,Corporate,North,Furniture,Office Chair,6,22231.83,0.05,126721.43,38774.64,359.27,Cash on Delivery
+ORD1552,2024-09-29,CUST134,Consumer,South,Electronics,Smartphone,7,27165.51,0.05,180650.64,75371.74,254.86,UPI
+ORD1553,2024-03-02,CUST192,Corporate,West,Groceries,Snack Pack,4,1146.64,0.0,4586.56,1721.1,111.66,Credit Card
+ORD1554,2025-08-18,CUST306,Corporate,South,Groceries,Beverage Crate,6,1499.65,0.2,7198.32,309.15,27.52,Credit Card
+ORD1555,2025-12-29,CUST312,Corporate,West,Furniture,Desk,6,18535.88,0.05,105654.52,24346.18,220.64,UPI
+ORD1556,2024-12-07,CUST258,Corporate,West,Furniture,Table Lamp,2,4183.32,0.25,6274.98,-626.88,61.1,Credit Card
+ORD1557,2025-01-31,CUST123,Consumer,North,Furniture,Desk,7,13680.49,0.15,81398.92,27291.94,65.2,Credit Card
+ORD1558,2025-11-29,CUST392,Corporate,East,Electronics,Tablet,5,36066.17,0.1,162297.76,54715.44,148.32,UPI
+ORD1559,2024-01-19,CUST103,Home Office,West,Stationery,Pen Set,7,250.34,0.2,1401.9,23.17,322.62,UPI
+ORD1560,2024-06-25,CUST319,Consumer,South,Furniture,Desk,3,24127.95,0.05,68764.66,21168.49,274.36,UPI
+ORD1561,2025-09-03,CUST119,Corporate,West,Stationery,Pen Set,6,251.92,0.2,1209.22,324.22,53.11,Net Banking
+ORD1562,2025-01-30,CUST251,Consumer,East,Electronics,Smartphone,2,12298.36,0.05,23366.88,2485.86,484.85,Credit Card
+ORD1563,2025-03-20,CUST149,Corporate,North,Stationery,Notebook Pack,2,1102.44,0.05,2094.64,361.22,445.84,Debit Card
+ORD1564,2024-08-20,CUST276,Corporate,East,Clothing,Jeans,5,1788.66,0.05,8496.14,2480.68,144.43,Credit Card
+ORD1565,2024-03-16,CUST195,Consumer,Central,Stationery,Pen Set,5,122.67,0.05,582.68,93.84,78.72,Net Banking
+ORD1566,2024-09-21,CUST204,Corporate,North,Furniture,Desk,5,15557.41,0.1,70008.34,11342.81,472.35,Credit Card
+ORD1567,2025-03-30,CUST349,Consumer,West,Electronics,Laptop,3,36905.93,0.05,105181.9,18047.84,241.35,Cash on Delivery
+ORD1568,2025-12-18,CUST216,Corporate,North,Furniture,Sofa,2,3015.77,0.0,6031.54,1239.11,169.36,UPI
+ORD1569,2025-01-18,CUST327,Consumer,West,Clothing,T-Shirt,4,3412.07,0.2,10918.62,3065.15,255.37,Credit Card
+ORD1570,2025-07-17,CUST165,Corporate,West,Furniture,Bookshelf,3,14284.7,0.1,38568.69,6989.85,390.92,UPI
+ORD1571,2025-05-20,CUST361,Consumer,South,Furniture,Office Chair,1,14655.2,,13922.44,5832.25,100.82,Credit Card
+ORD1572,2025-01-01,CUST394,Corporate,South,Furniture,Table Lamp,6,13722.71,0.1,74102.63,27744.28,388.4,Net Banking
+ORD1573,2024-05-23,CUST342,Consumer,West,Groceries,Cooking Oil,5,955.02,0.15,4058.84,137.56,379.73,Net Banking
+ORD1574,2024-03-09,CUST285,Home Office,East,Clothing,T-Shirt,2,1145.76,0.25,1718.64,95.63,278.89,Credit Card
+ORD1575,2024-04-08,CUST345,Home Office,West,Furniture,Sofa,6,8250.17,0.05,47025.97,8872.04,435.6,UPI
+ORD1576,2025-01-30,CUST224,Home Office,North,Furniture,Sofa,7,13516.47,0.0,94615.29,18776.38,83.43,Credit Card
+ORD1577,2024-01-25,CUST367,Corporate,Central,Furniture,Bookshelf,3,20457.12,0.05,58302.79,7065.31,305.83,Net Banking
+ORD1578,2025-04-13,CUST230,Corporate,West,Electronics,Tablet,1,4892.15,0.05,4647.54,680.96,235.68,UPI
+ORD1579,2025-04-28,CUST336,Consumer,Central,Groceries,Beverage Crate,7,944.77,0.2,5290.71,694.45,222.7,UPI
+ORD1580,2025-07-18,CUST117,Consumer,North,Electronics,Smartwatch,3,48793.13,0.05,139060.42,43798.02,141.23,Debit Card
+ORD1581,2024-05-30,CUST139,Consumer,East,Groceries,Spices Combo,3,319.68,0.25,719.28,147.36,198.69,Credit Card
+ORD1582,2024-05-23,CUST120,Corporate,East,Furniture,Office Chair,4,1853.03,0.05,7041.51,2074.67,71.91,Debit Card
+ORD1583,2025-07-22,CUST324,Home Office,South,Clothing,Sneakers,6,1300.68,,5853.06,702.77,140.77,UPI
+ORD1584,2024-02-08,CUST381,Consumer,East,Stationery,Printer Paper,4,726.37,0.0,2905.48,819.72,150.54,Credit Card
+ORD1585,2024-04-18,CUST107,Home Office,North,Stationery,Backpack,3,209.03,0.2,501.67,31.57,365.92,UPI
+ORD1586,2025-11-23,CUST199,Corporate,West,Furniture,Office Chair,1,11513.88,0.2,9211.1,-500.83,43.3,Net Banking
+ORD1587,2024-02-11,CUST339,Corporate,East,Electronics,Headphones,2,34034.65,0.25,51051.98,-1260.36,332.57,UPI
+ORD1588,2024-07-04,CUST186,Consumer,North,Clothing,Jeans,2,2216.43,0.0,4432.86,1138.69,126.28,Credit Card
+ORD1589,2025-02-01,CUST397,Consumer,West,Groceries,Snack Pack,7,484.18,0.0,3389.26,1184.45,59.29,Credit Card
+ORD1590,2024-08-10,CUST113,Corporate,East,Furniture,Office Chair,6,10900.7,0.1,58863.78,22214.46,164.39,Net Banking
+ORD1591,2025-09-25,CUST101,Corporate,North,Clothing,Cap,5,2790.69,0.0,13953.45,5072.95,127.75,UPI
+ORD1592,2024-05-12,CUST392,Consumer,Central,Clothing,Jacket,5,3311.89,0.0,16559.45,3634.23,284.98,UPI
+ORD1593,2024-06-11,CUST140,Corporate,Central,Groceries,Snack Pack,2,1306.63,0.0,2613.26,1015.04,191.54,Credit Card
+ORD1594,2024-08-02,CUST210,Home Office,East,Clothing,Cap,3,2105.71,0.05,6001.27,1177.15,483.68,Cash on Delivery
+ORD1595,2024-08-22,CUST113,Corporate,North,Electronics,Smartwatch,3,25796.98,0.05,73521.39,17495.46,482.5,Debit Card
+ORD1596,2025-10-19,CUST330,Home Office,West,Electronics,Tablet,4,21311.48,0.0,85245.92,33965.63,232.98,Credit Card
+ORD1597,2025-08-10,CUST183,Consumer,East,Electronics,Tablet,6,9247.48,0.0,55484.88,20613.33,401.64,Credit Card
+ORD1598,2024-01-09,CUST229,Consumer,South,Clothing,Sneakers,4,640.96,0.05,2435.65,643.81,26.37,Cash on Delivery
+ORD1599,2024-03-14,CUST330,Corporate,East,Electronics,Smartwatch,5,41924.74,0.1,188661.33,47057.92,282.95,Cash on Delivery
+ORD1600,2025-05-06,CUST244,Consumer,East,Groceries,Beverage Crate,2,463.71,0.0,927.42,200.72,376.78,UPI
+ORD1601,2024-09-09,CUST127,Consumer,East,Clothing,Sneakers,7,1114.92,0.05,7414.22,1402.29,124.13,Debit Card
+ORD1602,2024-08-17,CUST165,Consumer,East,Stationery,Backpack,3,1197.92,0.2,2875.01,278.98,49.36,UPI
+ORD1603,2025-06-02,CUST262,Consumer,East,Clothing,Cap,2,901.36,0.25,1352.04,-84.16,94.84,Credit Card
+ORD1604,2024-06-22,CUST328,Consumer,Central,Groceries,Cooking Oil,1,307.28,0.25,230.46,9.59,232.09,Net Banking
+ORD1605,2025-10-14,CUST360,Consumer,South,Stationery,Pen Set,2,163.49,0.2,261.58,-12.86,263.06,UPI
+ORD1606,2024-06-16,CUST263,Consumer,West,Clothing,T-Shirt,1,2155.38,0.05,2047.61,721.69,202.82,Debit Card
+ORD1607,2024-06-18,CUST386,Consumer,Central,Electronics,Smartphone,4,38416.1,,138297.96,20861.54,231.19,Credit Card
+ORD1608,2025-01-27,CUST109,Corporate,East,Furniture,Bookshelf,4,10082.86,0.05,38314.87,11656.46,245.71,UPI
+ORD1609,2025-09-25,CUST294,Corporate,East,Furniture,Table Lamp,5,14082.21,0.1,63369.94,18751.17,389.33,Net Banking
+ORD1610,2024-07-12,CUST217,Corporate,East,Electronics,Smartwatch,2,47727.17,0.0,95454.34,37788.82,70.52,UPI
+ORD1611,2025-05-31,CUST369,Consumer,East,Furniture,Sofa,2,20725.45,0.1,37305.81,7637.29,389.1,UPI
+ORD1612,2024-01-29,CUST179,Consumer,West,Furniture,Table Lamp,1,24010.93,0.05,22810.38,8052.28,350.54,Cash on Delivery
+ORD1613,2024-06-13,CUST192,Corporate,East,Electronics,Smartphone,4,49807.54,0.0,199230.16,77678.79,376.0,UPI
+ORD1614,2025-02-25,CUST365,Corporate,Central,Electronics,Tablet,1,34760.8,0.15,29546.68,98.74,372.54,UPI
+ORD1615,2024-12-04,CUST356,Consumer,North,Clothing,T-Shirt,4,874.9,0.0,3499.6,733.08,245.88,Cash on Delivery
+ORD1616,2025-10-09,CUST232,Consumer,North,Clothing,Sneakers,1,619.24,0.0,619.24,139.65,121.47,Credit Card
+ORD1617,2025-05-10,CUST375,Home Office,West,Electronics,Laptop,4,5161.69,0.0,20646.76,4372.61,277.58,Debit Card
+ORD1618,2024-12-30,CUST363,Consumer,South,Groceries,Rice 5kg,1,1033.14,0.05,981.48,112.94,479.83,Net Banking
+ORD1619,2024-12-07,CUST270,Consumer,South,Furniture,Office Chair,7,20477.1,0.0,143339.7,39850.87,302.49,UPI
+ORD1620,2025-05-14,CUST100,Corporate,South,Clothing,Cap,4,1927.79,0.2,6168.93,1418.29,25.3,UPI
+ORD1621,2025-10-18,CUST163,Consumer,South,Furniture,Bookshelf,6,2785.78,0.05,15878.95,2362.41,48.66,Debit Card
+ORD1622,2025-05-25,CUST383,Consumer,North,Stationery,Backpack,1,665.79,0.05,632.5,117.96,496.57,Credit Card
+ORD1623,2024-11-22,CUST220,Consumer,Central,Electronics,Laptop,2,56273.46,0.0,112546.92,36657.38,54.53,UPI
+ORD1624,2024-08-04,CUST206,Corporate,South,Groceries,Rice 5kg,5,936.66,0.1,4214.97,973.79,42.1,UPI
+ORD1625,2024-10-27,CUST274,Consumer,West,Stationery,Printer Paper,6,980.84,0.15,5002.28,1039.44,189.45,Credit Card
+ORD1626,2024-05-11,CUST303,Consumer,West,Stationery,Pen Set,6,970.18,0.1,5238.97,413.4,485.27,UPI
+ORD1627,2024-03-10,CUST264,Consumer,Central,Stationery,Pen Set,1,1121.95,0.1,1009.76,277.06,172.96,Debit Card
+ORD1628,2024-09-08,CUST219,Corporate,North,Electronics,Laptop,5,46673.27,0.2,186693.08,-9111.86,216.74,Cash on Delivery
+ORD1629,2025-02-18,CUST143,Consumer,Central,Clothing,Sneakers,2,2692.64,0.15,4577.49,144.97,324.36,UPI
+ORD1630,2025-03-20,CUST255,Home Office,East,Electronics,Smartphone,6,15577.95,0.1,84120.93,15033.69,31.57,UPI
+ORD1631,2024-06-30,CUST306,Consumer,East,Clothing,Jacket,2,491.76,0.0,983.52,271.5,450.93,Net Banking
+ORD1632,2024-06-15,CUST207,Home Office,West,Stationery,Notebook Pack,4,645.24,0.1,2322.86,616.78,269.33,Credit Card
+ORD1633,2024-03-31,CUST350,Home Office,West,Stationery,Printer Paper,7,193.1,0.05,1284.12,533.25,244.07,Cash on Delivery
+ORD1634,2025-12-14,CUST229,Consumer,South,Groceries,Snack Pack,5,1447.07,0.1,6511.82,2255.36,433.15,Cash on Delivery
+ORD1635,2025-06-14,CUST392,Consumer,West,Clothing,Cap,7,1227.76,0.15,7305.17,633.66,477.48,Cash on Delivery
+ORD1636,2024-02-08,CUST119,Consumer,East,Stationery,Pen Set,3,1030.89,0.1,2783.4,644.94,223.24,UPI
+ORD1637,2024-05-05,CUST381,Consumer,West,Furniture,Sofa,4,10609.18,0.15,36071.21,10823.42,102.77,UPI
+ORD1638,2025-03-26,CUST384,Corporate,Central,Groceries,Beverage Crate,5,552.47,0.0,2762.35,1024.31,411.54,Credit Card
+ORD1639,2024-06-21,CUST100,Consumer,North,Electronics,Tablet,1,56239.2,0.0,56239.2,9315.96,213.57,UPI
+ORD1640,2025-10-14,CUST218,Consumer,Central,Groceries,Beverage Crate,7,608.65,0.0,4260.55,1447.99,469.06,UPI
+ORD1641,2024-08-07,CUST134,Consumer,North,Furniture,Desk,1,10671.77,0.2,8537.42,-238.03,475.95,Cash on Delivery
+ORD1642,2025-09-29,CUST297,Home Office,North,Clothing,Cap,2,639.49,0.15,1087.13,266.8,75.12,Cash on Delivery
+ORD1643,2024-02-27,CUST344,Consumer,North,Electronics,Headphones,6,40885.91,0.1,220783.91,45882.32,479.15,Debit Card
+ORD1644,2025-10-21,CUST158,Consumer,South,Electronics,Smartphone,7,18752.69,0.1,118141.95,45137.69,196.77,Cash on Delivery
+ORD1645,2025-04-20,CUST260,Consumer,East,Clothing,Jeans,3,2173.93,0.1,5869.61,1261.56,330.2,Credit Card
+ORD1646,2025-03-31,CUST278,Home Office,North,Groceries,Cooking Oil,1,927.89,0.2,742.31,54.67,36.68,UPI
+ORD1647,2024-12-26,CUST305,Corporate,North,Stationery,Printer Paper,5,877.08,0.15,3727.59,1007.36,446.66,Credit Card
+ORD1648,2024-01-01,CUST111,Consumer,Central,Groceries,Rice 5kg,7,1143.34,0.1,7203.04,1411.14,327.97,Credit Card
+ORD1649,2025-01-21,CUST375,Consumer,West,Furniture,Table Lamp,7,13589.63,0.1,85614.67,14825.58,328.91,UPI
+ORD1650,2024-12-13,CUST280,Consumer,West,Stationery,Marker Set,6,430.64,0.0,2583.84,630.29,453.04,Net Banking
+ORD1651,2024-07-08,CUST341,Consumer,Central,Groceries,Cooking Oil,6,1272.43,0.1,6871.12,893.85,264.01,Net Banking
+ORD1652,2025-05-19,CUST315,Home Office,West,Clothing,T-Shirt,5,1291.57,0.05,6134.96,1979.97,217.05,Credit Card
+ORD1653,2024-07-09,CUST350,Corporate,North,Furniture,Office Chair,6,13426.46,0.0,80558.76,22529.62,435.74,Credit Card
+ORD1654,2025-05-22,CUST398,Consumer,South,Furniture,Office Chair,1,10929.44,0.15,9290.02,60.4,376.36,Credit Card
+ORD1655,2025-01-03,CUST225,Home Office,West,Furniture,Sofa,5,21594.34,0.05,102573.12,14096.44,475.51,Credit Card
+ORD1656,2025-02-12,CUST316,Consumer,South,Stationery,Backpack,5,546.71,0.25,2050.16,-234.54,471.26,Credit Card
+ORD1657,2024-04-26,CUST384,Corporate,West,Electronics,Smartphone,2,24393.75,0.0,48787.5,16302.79,203.52,Net Banking
+ORD1658,2024-05-13,CUST284,Home Office,North,Stationery,Notebook Pack,3,843.3,0.05,2403.4,414.7,234.55,Cash on Delivery
+ORD1659,2024-02-27,CUST138,Consumer,South,Groceries,Rice 5kg,7,943.42,0.05,6273.74,1413.44,142.87,UPI
+ORD1660,2025-07-09,CUST322,Corporate,East,Electronics,Tablet,2,8220.32,0.0,16440.64,6990.22,337.11,Net Banking
+ORD1661,2025-11-15,CUST283,Consumer,East,Groceries,Spices Combo,3,811.44,0.05,2312.6,371.97,194.98,Credit Card
+ORD1662,2025-11-02,CUST277,Consumer,East,Electronics,Smartphone,5,44657.75,0.0,223288.75,55123.21,397.33,Debit Card
+ORD1663,2024-06-21,CUST393,Consumer,West,Stationery,Notebook Pack,7,1190.89,0.0,8336.23,3253.84,78.34,UPI
+ORD1664,2024-05-28,CUST250,Consumer,North,Furniture,Bookshelf,6,16284.95,0.0,97709.7,41632.0,75.87,Cash on Delivery
+ORD1665,2024-03-20,CUST225,Corporate,North,Clothing,Cap,3,1484.94,0.0,4454.82,886.03,118.14,Debit Card
+ORD1666,2024-07-31,CUST333,Home Office,Central,Furniture,Table Lamp,5,6814.56,0.1,30665.52,11118.96,60.46,Cash on Delivery
+ORD1667,2024-07-21,CUST107,Corporate,West,Stationery,Backpack,5,1053.75,0.0,5268.75,2226.54,317.62,Credit Card
+ORD1668,2024-08-16,CUST228,Home Office,North,Electronics,Smartphone,2,49244.78,0.1,88640.6,21842.77,90.73,Net Banking
+ORD1669,2025-11-06,CUST363,Corporate,Central,Furniture,Bookshelf,2,6997.19,0.15,11895.22,3632.39,96.78,Credit Card
+ORD1670,2024-08-14,CUST256,Consumer,South,Stationery,Notebook Pack,6,280.73,0.05,1600.16,212.06,26.83,Credit Card
+ORD1671,2025-10-20,CUST104,Consumer,East,Groceries,Rice 5kg,4,1101.19,0.2,3523.81,479.75,395.4,Credit Card
+ORD1672,2025-06-15,CUST185,Consumer,North,Clothing,Sneakers,1,1307.85,,1177.06,234.43,409.9,Cash on Delivery
+ORD1673,2025-03-16,CUST274,Corporate,West,Furniture,Desk,4,8700.37,0.1,31321.33,2490.68,97.77,Cash on Delivery
+ORD1674,2025-02-05,CUST389,Home Office,West,Electronics,Laptop,4,10832.83,0.0,43331.32,12605.99,374.97,Credit Card
+ORD1675,2024-02-16,CUST292,Consumer,North,Groceries,Snack Pack,7,469.57,0.15,2793.94,637.42,228.1,UPI
+ORD1676,2024-08-20,CUST218,Corporate,Central,Stationery,Pen Set,7,541.63,0.15,3222.7,230.72,135.01,Debit Card
+ORD1677,2024-10-31,CUST317,Corporate,South,Clothing,Jeans,6,2645.08,0.05,15076.96,4239.72,318.26,UPI
+ORD1678,2025-06-09,CUST213,Corporate,South,Electronics,Tablet,7,21505.87,0.0,150541.09,53360.67,105.67,UPI
+ORD1679,2024-05-22,CUST244,Consumer,North,Stationery,Pen Set,3,427.89,0.05,1219.49,234.96,383.3,UPI
+ORD1680,2025-02-18,CUST125,Consumer,South,Stationery,Pen Set,6,377.65,0.1,2039.31,248.16,42.86,Net Banking
+ORD1681,2025-05-27,CUST235,Consumer,North,Furniture,Bookshelf,6,12739.67,0.05,72616.12,12420.04,480.38,UPI
+ORD1682,2025-01-07,CUST331,Consumer,East,Furniture,Sofa,5,5744.96,0.1,25852.32,1628.63,54.5,Net Banking
+ORD1683,2025-07-19,CUST175,Consumer,Central,Electronics,Smartphone,5,30166.58,0.0,150832.9,32278.23,298.14,UPI
+ORD1684,2024-09-15,CUST388,Corporate,East,Stationery,Notebook Pack,5,859.8,0.15,3654.15,296.72,453.05,Credit Card
+ORD1685,2025-10-17,CUST100,Consumer,North,Furniture,Office Chair,1,2200.08,0.0,2200.08,424.08,25.71,UPI
+ORD1686,2025-04-15,CUST246,Home Office,North,Clothing,Cap,3,331.29,0.0,993.87,447.19,259.29,Credit Card
+ORD1687,2024-01-12,CUST386,Consumer,North,Clothing,Sneakers,3,540.39,0.1,1459.05,391.14,188.0,UPI
+ORD1688,2024-11-25,CUST241,Corporate,South,Stationery,Notebook Pack,5,666.01,0.0,3330.05,761.65,298.56,Credit Card
+ORD1689,2024-12-23,CUST152,Consumer,West,Furniture,Sofa,4,21579.69,0.0,86318.76,23313.34,128.22,Cash on Delivery
+ORD1690,2025-02-11,CUST168,Corporate,North,Electronics,Smartwatch,1,2283.3,0.0,2283.3,905.85,51.15,UPI
+ORD1691,2025-10-29,CUST189,Home Office,West,Electronics,Tablet,4,56326.36,0.05,214040.17,69592.36,320.45,Net Banking
+ORD1692,2025-01-07,CUST319,Consumer,Central,Electronics,Smartwatch,2,8164.15,0.2,13062.64,2432.3,220.09,Debit Card
+ORD1693,2024-01-08,CUST291,Consumer,East,Clothing,Jeans,3,2994.35,0.15,7635.59,1164.66,318.79,Cash on Delivery
+ORD1694,2024-05-01,CUST162,Corporate,West,Furniture,Sofa,3,12847.09,0.05,36614.21,5801.26,121.06,Debit Card
+ORD1695,2024-12-13,CUST172,Consumer,East,Furniture,Table Lamp,4,16994.9,0.0,67979.6,11573.69,182.6,UPI
+ORD1696,2025-11-06,CUST260,Consumer,East,Clothing,Cap,1,1934.19,0.05,1837.48,338.43,289.61,Credit Card
+ORD1697,2024-03-30,CUST268,Consumer,East,Electronics,Tablet,3,29668.8,0.1,80105.76,8643.85,304.69,Debit Card
+ORD1698,2025-10-09,CUST188,Consumer,East,Electronics,Headphones,4,50424.17,0.0,201696.68,62318.47,198.71,Cash on Delivery
+ORD1699,2025-11-28,CUST275,Corporate,South,Stationery,Pen Set,6,919.27,0.0,5515.62,1837.07,154.43,Cash on Delivery
+ORD1700,2024-11-11,CUST368,Consumer,South,Groceries,Rice 5kg,6,776.76,0.0,4660.56,1548.18,151.38,Net Banking
+ORD1701,2024-06-26,CUST172,Home Office,South,Furniture,Desk,7,4123.44,0.15,24534.47,3324.81,103.86,UPI
+ORD1702,2025-06-23,CUST344,Corporate,East,Furniture,Bookshelf,1,4211.97,0.05,4001.37,1527.8,176.19,Credit Card
+ORD1703,2024-02-10,CUST176,Corporate,North,Furniture,Sofa,4,20336.18,0.15,69143.01,10261.78,115.73,Net Banking
+ORD1704,2025-12-04,CUST258,Corporate,Central,Groceries,Spices Combo,7,841.15,0.0,5888.05,1474.72,324.23,Credit Card
+ORD1705,2025-05-16,CUST197,Home Office,West,Stationery,Printer Paper,6,603.83,0.0,3622.98,1153.29,293.15,Credit Card
+ORD1706,2024-05-24,CUST201,Consumer,South,Groceries,Cooking Oil,1,1052.79,0.05,1000.15,120.07,203.64,UPI
+ORD1707,2024-07-19,CUST231,Home Office,North,Electronics,Headphones,7,51812.81,0.05,344555.19,78898.07,176.4,UPI
+ORD1708,2025-12-24,CUST201,Corporate,Central,Electronics,Tablet,5,38474.64,0.0,192373.2,73871.34,134.05,Credit Card
+ORD1709,2025-04-05,CUST118,Corporate,West,Furniture,Office Chair,1,19426.93,0.0,19426.93,5949.21,277.02,Cash on Delivery
+ORD1710,2025-07-11,CUST181,Corporate,West,Clothing,Jeans,2,2748.87,0.0,5497.74,1360.02,461.07,Cash on Delivery
+ORD1711,2025-06-30,CUST378,Consumer,South,Furniture,Bookshelf,5,9872.14,0.0,49360.7,17419.95,349.14,Net Banking
+ORD1712,2024-09-09,CUST228,Consumer,South,Clothing,Jacket,7,1177.07,0.0,8239.49,3510.91,377.32,UPI
+ORD1713,2025-01-24,CUST188,Corporate,North,Groceries,Beverage Crate,4,1221.63,0.25,3664.89,122.01,420.5,Debit Card
+ORD1714,2025-08-16,CUST312,Consumer,North,Electronics,Headphones,5,23876.37,0.05,113412.76,13805.19,188.78,Credit Card
+ORD1715,2024-09-12,CUST242,Corporate,West,Clothing,Jacket,5,3190.68,0.1,14358.06,3262.13,50.18,Net Banking
+ORD1716,2025-12-09,CUST164,Consumer,West,Groceries,Spices Combo,7,197.57,0.05,1313.84,177.25,318.83,Credit Card
+ORD1717,2025-03-25,CUST175,Consumer,East,Electronics,Smartwatch,4,5376.62,0.0,21506.48,4290.39,110.56,UPI
+ORD1718,2024-01-10,CUST298,Consumer,Central,Clothing,Jacket,4,3266.41,0.0,13065.64,5301.73,293.14,UPI
+ORD1719,2024-08-29,CUST242,Consumer,East,Furniture,Office Chair,6,16738.69,0.05,95410.53,18835.95,374.96,Net Banking
+ORD1720,2024-09-07,CUST192,Consumer,East,Furniture,Bookshelf,2,10420.58,0.05,19799.1,5613.78,396.15,Credit Card
+ORD1721,2024-01-05,CUST323,Consumer,South,Furniture,Table Lamp,4,19243.92,0.0,76975.68,28860.19,164.88,Credit Card
+ORD1722,2024-04-28,CUST390,Home Office,Central,Groceries,Rice 5kg,3,1041.26,0.15,2655.21,293.38,265.97,UPI
+ORD1723,2025-01-08,CUST201,Corporate,North,Furniture,Sofa,3,13983.22,0.05,39852.18,7433.56,318.06,UPI
+ORD1724,2024-03-05,CUST366,Consumer,Central,Stationery,Backpack,2,163.7,0.0,327.4,129.66,413.35,UPI
+ORD1725,2024-05-25,CUST209,Corporate,West,Electronics,Smartphone,1,49106.42,0.0,49106.42,8626.36,385.47,UPI
+ORD1726,2024-08-11,CUST364,Home Office,North,Groceries,Cooking Oil,7,1312.43,0.1,8268.31,1145.22,494.23,UPI
+ORD1727,2024-08-26,CUST102,Corporate,East,Furniture,Table Lamp,1,5545.96,0.15,4714.07,110.85,23.88,Credit Card
+ORD1728,2024-06-25,CUST184,Consumer,Central,Electronics,Tablet,3,51329.68,0.0,153989.04,54647.33,229.99,Credit Card
+ORD1729,2024-10-08,CUST381,Home Office,East,Clothing,Jeans,4,3109.11,0.0,12436.44,2091.8,142.9,UPI
+ORD1730,2024-03-03,CUST216,Corporate,Central,Furniture,Bookshelf,2,14411.57,0.05,27381.98,8342.7,77.55,Net Banking
+ORD1731,2024-08-04,CUST320,Consumer,Central,Electronics,Smartwatch,1,40058.38,0.0,40058.38,17377.69,457.53,Credit Card
+ORD1732,2025-11-19,CUST253,Consumer,South,Stationery,Pen Set,1,489.57,0.1,440.61,59.29,499.02,Credit Card
+ORD1733,2025-04-05,CUST252,Corporate,South,Clothing,Jacket,7,1201.73,0.1,7570.9,1168.84,106.69,UPI
+ORD1734,2025-09-01,CUST111,Consumer,Central,Stationery,Notebook Pack,5,880.28,0.0,4401.4,1191.14,38.45,Credit Card
+ORD1735,2024-04-14,CUST232,Corporate,West,Electronics,Smartphone,3,51988.76,0.0,155966.28,47262.75,152.03,UPI
+ORD1736,2024-04-08,CUST392,Consumer,North,Stationery,Marker Set,4,802.19,0.1,2887.88,1092.1,420.73,UPI
+ORD1737,2025-05-25,CUST399,Home Office,North,Electronics,Laptop,2,31672.26,0.0,63344.52,16635.59,161.07,Credit Card
+ORD1738,2025-01-19,CUST327,Corporate,East,Electronics,Tablet,1,11217.64,0.0,11217.64,3645.17,47.31,Credit Card
+ORD1739,2025-02-08,CUST370,Consumer,Central,Stationery,Printer Paper,7,111.48,0.15,663.31,102.96,45.2,Cash on Delivery
+ORD1740,2025-06-01,CUST142,Consumer,Central,Electronics,Smartphone,5,27850.12,0.0,139250.6,44727.79,225.16,Net Banking
+ORD1741,2025-04-20,CUST120,Corporate,West,Furniture,Office Chair,3,2659.71,0.05,7580.17,879.16,467.28,Net Banking
+ORD1742,2025-12-09,CUST206,Corporate,North,Electronics,Tablet,3,35021.41,0.0,105064.23,28237.83,157.24,UPI
+ORD1743,2025-10-06,CUST216,Corporate,South,Groceries,Snack Pack,7,635.82,0.1,4005.67,557.37,225.04,Net Banking
+ORD1744,2025-03-12,CUST223,Consumer,Central,Electronics,Smartwatch,2,45916.97,0.0,91833.94,15528.74,68.93,Debit Card
+ORD1745,2024-01-23,CUST380,Consumer,North,Groceries,Cooking Oil,1,527.91,0.25,395.93,11.89,256.91,Net Banking
+ORD1746,2025-07-18,CUST391,Consumer,South,Electronics,Headphones,2,36393.0,0.1,65507.4,25211.71,354.34,Credit Card
+ORD1747,2025-11-07,CUST302,Corporate,North,Electronics,Smartphone,7,33185.64,0.0,232299.48,102144.98,150.15,UPI
+ORD1748,2025-12-14,CUST150,Consumer,West,Stationery,Backpack,7,55.42,0.05,368.54,73.43,162.42,UPI
+ORD1749,2025-04-02,CUST370,Consumer,Central,Furniture,Office Chair,2,3201.15,0.05,6082.18,2024.88,424.15,UPI
+ORD1750,2024-03-23,CUST376,Corporate,South,Furniture,Sofa,6,8323.65,0.05,47444.8,11296.16,24.97,UPI
+ORD1751,2024-05-24,CUST240,Home Office,East,Clothing,Jeans,5,3123.15,0.15,13273.39,3737.11,325.51,Cash on Delivery
+ORD1752,2024-03-25,CUST374,Consumer,East,Stationery,Printer Paper,3,219.07,0.1,591.49,176.74,209.06,Net Banking
+ORD1753,2024-03-18,CUST389,Consumer,Central,Stationery,Pen Set,6,867.53,0.0,5205.18,1554.31,163.22,Credit Card
+ORD1754,2025-04-01,CUST151,Corporate,North,Furniture,Bookshelf,4,24374.11,0.1,87746.8,5589.39,335.65,Credit Card
+ORD1755,2024-01-01,CUST126,Corporate,East,Stationery,Pen Set,3,959.15,0.0,2877.45,762.87,420.64,UPI
+ORD1756,2024-02-20,CUST256,Consumer,South,Furniture,Table Lamp,3,7209.22,0.15,18383.51,414.29,288.03,Credit Card
+ORD1757,2025-11-15,CUST338,Home Office,Central,Stationery,Backpack,5,1094.62,0.1,4925.79,340.35,34.93,UPI
+ORD1758,2025-12-17,CUST255,Corporate,East,Electronics,Smartwatch,4,7400.22,0.0,29600.88,11472.32,241.47,UPI
+ORD1759,2025-03-21,CUST390,Consumer,North,Furniture,Sofa,1,12501.34,0.0,12501.34,4458.5,242.12,UPI
+ORD1760,2025-03-24,CUST235,Consumer,East,Furniture,Table Lamp,4,22357.23,0.15,76014.58,6170.8,281.02,Debit Card
+ORD1761,2025-05-02,CUST243,Consumer,West,Groceries,Snack Pack,1,997.77,0.15,848.1,39.88,342.06,UPI
+ORD1762,2024-02-03,CUST205,Corporate,North,Stationery,Pen Set,4,525.69,0.05,1997.62,513.56,29.27,Credit Card
+ORD1763,2024-12-13,CUST257,Consumer,Central,Stationery,Printer Paper,2,386.73,0.0,773.46,117.59,260.97,Credit Card
+ORD1764,2024-04-04,CUST245,Corporate,North,Furniture,Table Lamp,7,10314.84,0.1,64983.49,25020.69,302.39,UPI
+ORD1765,2024-03-12,CUST101,Corporate,East,Electronics,Smartwatch,4,31518.62,0.0,126074.48,45402.22,184.81,Credit Card
+ORD1766,2025-07-04,CUST176,Consumer,South,Electronics,Smartphone,6,20504.55,0.0,123027.3,32362.51,340.82,UPI
+ORD1767,2024-06-02,CUST231,Corporate,West,Electronics,Headphones,6,58200.14,,349200.84,107977.45,129.53,Credit Card
+ORD1768,2024-09-06,CUST189,Home Office,South,Stationery,Notebook Pack,5,1123.04,0.0,5615.2,2330.42,172.34,UPI
+ORD1769,2025-11-04,CUST362,Consumer,Central,Groceries,Snack Pack,7,1318.94,0.05,8770.95,2674.34,482.12,Cash on Delivery
+ORD1770,2025-03-13,CUST207,Consumer,West,Furniture,Sofa,7,11413.0,0.25,59918.25,15368.3,187.07,Credit Card
+ORD1771,2024-04-27,CUST173,Consumer,West,Clothing,T-Shirt,1,2512.17,0.1,2260.95,394.85,186.32,UPI
+ORD1772,2024-11-01,CUST138,Home Office,West,Groceries,Snack Pack,3,1363.96,0.0,4091.88,745.45,305.93,UPI
+ORD1773,2024-09-24,CUST258,Home Office,West,Clothing,Cap,5,3021.37,0.05,14351.51,2032.44,486.07,Net Banking
+ORD1774,2024-02-23,CUST170,Consumer,North,Groceries,Snack Pack,6,680.06,0.05,3876.34,775.82,491.88,UPI
+ORD1775,2024-08-23,CUST340,Corporate,South,Electronics,Laptop,6,8518.39,0.0,51110.34,15857.95,298.24,UPI
+ORD1776,2025-01-23,CUST397,Consumer,Central,Stationery,Printer Paper,1,136.97,0.2,109.58,13.21,20.52,Net Banking
+ORD1777,2025-02-04,CUST135,Consumer,North,Clothing,Jeans,6,2146.6,0.05,12235.62,4622.8,452.32,UPI
+ORD1778,2025-09-15,CUST183,Consumer,West,Groceries,Snack Pack,6,999.68,0.25,4498.56,585.98,293.71,UPI
+ORD1779,2024-10-29,CUST362,Consumer,Central,Stationery,Printer Paper,1,1027.32,,975.95,353.07,195.68,Credit Card
+ORD1780,2024-07-25,CUST271,Consumer,North,Clothing,Jeans,6,1236.05,0.1,6674.67,768.62,418.01,Net Banking
+ORD1781,2024-08-16,CUST272,Corporate,West,Furniture,Bookshelf,3,5435.56,0.0,16306.68,2863.03,211.92,Cash on Delivery
+ORD1782,2025-07-31,CUST146,Consumer,East,Groceries,Spices Combo,2,630.61,0.05,1198.16,301.34,36.34,Debit Card
+ORD1783,2024-03-15,CUST240,Home Office,East,Furniture,Sofa,5,9809.02,0.0,49045.1,11362.32,414.11,Debit Card
+ORD1784,2025-03-10,CUST217,Consumer,North,Electronics,Headphones,3,9683.2,0.15,24692.16,7656.33,282.01,Net Banking
+ORD1785,2024-04-12,CUST376,Consumer,North,Furniture,Office Chair,3,17298.64,0.15,44111.53,6094.63,182.31,UPI
+ORD1786,2025-02-25,CUST313,Consumer,West,Furniture,Desk,2,13454.26,0.15,22872.24,2399.23,140.43,Net Banking
+ORD1787,2025-12-04,CUST319,Corporate,West,Groceries,Spices Combo,7,1109.57,0.1,6990.29,1663.45,305.02,UPI
+ORD1788,2024-11-01,CUST125,Consumer,West,Electronics,Laptop,5,22456.08,0.15,95438.34,25489.68,119.86,UPI
+ORD1789,2024-04-07,CUST108,Consumer,East,Furniture,Office Chair,3,9154.0,0.0,27462.0,5129.56,175.45,UPI
+ORD1790,2024-11-30,CUST370,Home Office,North,Stationery,Pen Set,6,593.46,0.05,3382.72,630.71,325.53,UPI
+ORD1791,2025-03-10,CUST109,Consumer,West,Clothing,Sneakers,2,3107.7,0.1,5593.86,497.5,443.14,Net Banking
+ORD1792,2025-03-22,CUST220,Consumer,South,Furniture,Table Lamp,7,2446.61,0.1,15413.64,1789.34,275.79,UPI
+ORD1793,2024-11-03,CUST224,Corporate,Central,Electronics,Smartphone,5,48680.3,0.1,219061.35,12872.94,384.37,Credit Card
+ORD1794,2024-09-05,CUST269,Consumer,West,Furniture,Sofa,4,10171.21,0.0,40684.84,15962.62,386.27,Credit Card
+ORD1795,2024-06-14,CUST171,Consumer,West,Clothing,Cap,1,3034.78,0.0,3034.78,1286.67,338.89,Cash on Delivery
+ORD1796,2025-04-25,CUST251,Consumer,Central,Electronics,Tablet,6,48527.77,0.2,232933.3,43354.47,138.0,Net Banking
+ORD1797,2024-11-30,CUST307,Consumer,North,Groceries,Rice 5kg,2,588.27,0.1,1058.89,366.26,436.06,UPI
+ORD1798,2025-06-25,CUST148,Consumer,West,Electronics,Smartphone,1,42244.84,0.0,42244.84,12380.31,229.41,UPI
+ORD1799,2024-04-15,CUST253,Consumer,South,Groceries,Spices Combo,7,323.49,0.15,1924.77,249.3,41.22,UPI
+ORD1800,2025-07-16,CUST392,Consumer,Central,Electronics,Tablet,7,53984.33,0.2,302312.25,28913.68,137.41,Credit Card
+ORD1801,2024-03-21,CUST167,Consumer,South,Clothing,Sneakers,4,1594.37,0.0,6377.48,2373.88,387.46,UPI
+ORD1802,2024-05-12,CUST149,Corporate,West,Clothing,T-Shirt,3,1758.0,0.15,4482.9,144.26,53.18,Net Banking
+ORD1803,2024-05-17,CUST251,Consumer,Central,Electronics,Laptop,3,42934.02,0.2,103041.65,31382.4,90.73,UPI
+ORD1804,2024-07-02,CUST118,Consumer,North,Furniture,Office Chair,5,20789.75,0.2,83159.0,15134.52,353.23,UPI
+ORD1805,2025-02-04,CUST199,Home Office,South,Clothing,Jacket,2,1056.3,0.2,1690.08,72.47,448.45,Credit Card
+ORD1806,2024-11-25,CUST159,Corporate,West,Groceries,Cooking Oil,2,1025.89,0.05,1949.19,348.64,324.19,UPI
+ORD1807,2025-05-22,CUST266,Consumer,East,Groceries,Cooking Oil,7,648.8,0.05,4314.52,1249.69,126.7,Credit Card
+ORD1808,2024-03-09,CUST301,Home Office,South,Stationery,Marker Set,5,474.01,0.0,2370.05,1054.5,45.64,UPI
+ORD1809,2025-06-29,CUST245,Consumer,North,Groceries,Cooking Oil,1,1066.04,0.0,1066.04,282.06,315.26,UPI
+ORD1810,2024-02-22,CUST263,Consumer,North,Stationery,Marker Set,3,495.26,0.05,1411.49,566.19,42.75,Cash on Delivery
+ORD1811,2025-03-25,CUST341,Corporate,Central,Electronics,Headphones,3,22074.29,0.05,62911.73,24346.4,314.11,UPI
+ORD1812,2024-07-23,CUST168,Consumer,East,Electronics,Smartphone,7,50481.53,0.0,353370.71,90082.95,128.28,UPI
+ORD1813,2024-05-05,CUST274,Consumer,North,Electronics,Headphones,2,7874.02,0.05,14960.64,4822.89,454.23,UPI
+ORD1814,2024-02-12,CUST148,Consumer,South,Furniture,Office Chair,7,17383.48,0.0,121684.36,42053.01,248.04,Net Banking
+ORD1815,2024-04-20,CUST207,Consumer,South,Furniture,Bookshelf,2,7345.05,0.15,12486.58,2261.65,127.49,Credit Card
+ORD1816,2025-10-24,CUST325,Consumer,North,Stationery,Notebook Pack,5,67.82,0.0,339.1,53.04,429.51,UPI
+ORD1817,2024-07-01,CUST260,Home Office,South,Groceries,Cooking Oil,4,333.47,0.1,1200.49,80.52,141.94,Cash on Delivery
+ORD1818,2024-04-04,CUST218,Consumer,South,Groceries,Cooking Oil,1,949.33,0.05,901.86,261.18,167.17,Credit Card
+ORD1819,2025-01-08,CUST248,Home Office,South,Electronics,Smartphone,6,43129.38,0.0,258776.28,95837.86,420.45,UPI
+ORD1820,2025-06-03,CUST249,Corporate,West,Clothing,Jacket,4,367.38,0.2,1175.62,233.98,168.22,Cash on Delivery
+ORD1821,2024-12-25,CUST392,Corporate,South,Furniture,Office Chair,4,2356.0,0.05,8952.8,3009.7,216.88,UPI
+ORD1822,2025-11-26,CUST242,Corporate,West,Furniture,Sofa,2,22709.74,0.0,45419.48,13186.47,186.88,Net Banking
+ORD1823,2024-10-07,CUST259,Corporate,East,Electronics,Smartphone,2,6251.74,0.0,12503.48,3350.21,75.87,UPI
+ORD1824,2024-07-13,CUST110,Consumer,East,Furniture,Office Chair,2,22513.28,0.0,45026.56,13659.54,38.67,UPI
+ORD1825,2024-07-13,CUST237,Consumer,West,Electronics,Tablet,4,15233.62,0.0,60934.48,19962.24,367.78,Net Banking
+ORD1826,2025-10-28,CUST177,Consumer,East,Stationery,Pen Set,7,901.02,0.05,5991.78,2123.07,329.67,Net Banking
+ORD1827,2024-04-02,CUST176,Home Office,Central,Groceries,Cooking Oil,1,533.63,0.05,506.95,136.21,155.54,Debit Card
+ORD1828,2025-11-02,CUST353,Corporate,West,Clothing,Sneakers,7,3048.01,0.2,17068.86,3150.68,161.89,Credit Card
+ORD1829,2024-03-01,CUST357,Consumer,East,Groceries,Snack Pack,2,1080.64,0.1,1945.15,405.28,473.6,UPI
+ORD1830,2025-09-25,CUST390,Consumer,West,Groceries,Snack Pack,3,662.54,0.0,1987.62,491.82,494.08,Credit Card
+ORD1831,2024-02-20,CUST362,Consumer,East,Stationery,Pen Set,7,137.75,0.0,964.25,250.71,247.25,Credit Card
+ORD1832,2025-02-06,CUST184,Corporate,South,Furniture,Office Chair,1,18718.45,0.05,17782.53,4890.25,405.18,UPI
+ORD1833,2024-01-05,CUST245,Consumer,North,Clothing,Cap,3,2274.03,0.0,6822.09,1931.91,373.61,UPI
+ORD1834,2025-04-10,CUST141,Corporate,North,Furniture,Table Lamp,1,1568.43,0.0,1568.43,571.76,162.71,Credit Card
+ORD1835,2025-08-26,CUST224,Home Office,Central,Groceries,Rice 5kg,2,113.19,0.15,192.42,66.26,48.11,Credit Card
+ORD1836,2025-11-12,CUST266,Consumer,West,Electronics,Smartphone,7,48909.99,0.0,342369.93,89870.11,88.43,UPI
+ORD1837,2025-06-17,CUST340,Consumer,Central,Groceries,Spices Combo,6,463.16,0.15,2362.12,623.13,422.38,Debit Card
+ORD1838,2025-02-08,CUST379,Consumer,East,Furniture,Desk,5,16449.14,0.0,82245.7,20505.0,370.98,Net Banking
+ORD1839,2025-05-27,CUST287,Consumer,East,Groceries,Rice 5kg,2,735.9,0.25,1103.85,-35.47,338.88,Credit Card
+ORD1840,2025-10-06,CUST118,Consumer,North,Electronics,Smartwatch,4,52078.94,0.1,187484.18,15669.86,82.71,Cash on Delivery
+ORD1841,2024-08-20,CUST167,Consumer,West,Stationery,Pen Set,6,1104.51,0.1,5964.35,414.61,327.17,UPI
+ORD1842,2025-06-07,CUST317,Home Office,East,Furniture,Office Chair,4,24924.98,0.0,99699.92,44550.13,390.63,Cash on Delivery
+ORD1843,2024-12-11,CUST201,Consumer,Central,Groceries,Spices Combo,1,315.16,0.15,267.89,0.91,433.09,UPI
+ORD1844,2024-02-15,CUST141,Consumer,South,Furniture,Bookshelf,4,21779.66,0.15,74050.84,8284.5,26.35,UPI
+ORD1845,2025-06-29,CUST387,Home Office,East,Stationery,Printer Paper,6,355.92,0.1,1921.97,335.16,348.55,Cash on Delivery
+ORD1846,2024-03-18,CUST266,Corporate,West,Groceries,Cooking Oil,6,927.14,0.05,5284.7,2199.75,29.17,Credit Card
+ORD1847,2025-12-30,CUST208,Consumer,West,Groceries,Cooking Oil,2,808.08,0.1,1454.54,148.08,359.3,Cash on Delivery
+ORD1848,2024-03-13,CUST135,Corporate,East,Furniture,Desk,3,1922.72,0.0,5768.16,2343.91,325.1,Cash on Delivery
+ORD1849,2024-09-05,CUST331,Consumer,West,Furniture,Desk,2,23420.13,0.1,42156.23,4627.86,91.21,Debit Card
+ORD1850,2024-02-16,CUST328,Corporate,North,Electronics,Smartphone,1,6542.97,0.15,5561.52,1932.34,387.74,UPI
+ORD1851,2024-04-30,CUST263,Corporate,West,Stationery,Printer Paper,4,841.45,0.05,3197.51,694.06,52.81,Credit Card
+ORD1852,2024-08-01,CUST172,Corporate,East,Electronics,Headphones,3,47530.4,0.0,142591.2,45566.38,416.67,UPI
+ORD1853,2024-08-26,CUST235,Consumer,Central,Groceries,Snack Pack,7,1213.4,0.05,8069.11,2885.94,145.73,Debit Card
+ORD1854,2024-02-25,CUST169,Corporate,Central,Furniture,Desk,5,4684.12,0.1,21078.54,7441.46,350.65,UPI
+ORD1855,2024-12-15,CUST295,Consumer,South,Groceries,Cooking Oil,6,726.6,0.0,4359.6,1386.19,463.37,UPI
+ORD1856,2024-04-16,CUST368,Consumer,South,Groceries,Rice 5kg,3,1261.2,0.0,3783.6,1562.66,183.12,UPI
+ORD1857,2024-02-17,CUST148,Consumer,Central,Clothing,Sneakers,7,1268.57,0.0,8879.99,2700.1,261.39,UPI
+ORD1858,2025-07-26,CUST229,Consumer,East,Clothing,Sneakers,3,1796.8,0.15,4581.84,606.07,242.3,Credit Card
+ORD1859,2024-12-02,CUST104,Consumer,Central,Groceries,Spices Combo,2,481.91,0.0,963.82,194.48,95.65,UPI
+ORD1860,2024-01-26,CUST126,Corporate,North,Furniture,Desk,7,12393.46,0.1,78078.8,12701.27,303.35,Cash on Delivery
+ORD1861,2024-09-13,CUST259,Home Office,West,Groceries,Snack Pack,5,1342.97,0.05,6379.11,2554.6,376.64,Credit Card
+ORD1862,2024-01-08,CUST248,Consumer,West,Clothing,T-Shirt,6,1756.4,0.15,8957.64,2189.57,460.1,Cash on Delivery
+ORD1863,2025-09-16,CUST363,Consumer,Central,Furniture,Sofa,1,14563.93,0.25,10922.95,1654.56,428.39,Net Banking
+ORD1864,2024-09-09,CUST329,Consumer,South,Groceries,Spices Combo,1,665.57,0.0,665.57,116.8,264.81,UPI
+ORD1865,2025-11-22,CUST299,Consumer,West,Stationery,Notebook Pack,3,579.13,0.0,1737.39,329.52,365.13,UPI
+ORD1866,2025-12-19,CUST149,Consumer,East,Stationery,Printer Paper,7,67.45,0.15,401.33,89.22,404.38,Credit Card
+ORD1867,2024-10-29,CUST166,Home Office,North,Groceries,Beverage Crate,3,497.24,0.0,1491.72,639.43,256.87,UPI
+ORD1868,2025-09-30,CUST399,Consumer,West,Furniture,Table Lamp,4,11759.67,0.0,47038.68,8550.12,75.41,Net Banking
+ORD1869,2024-02-25,CUST157,Consumer,West,Groceries,Cooking Oil,5,987.32,0.15,4196.11,165.59,230.21,UPI
+ORD1870,2025-12-26,CUST358,Consumer,Central,Groceries,Beverage Crate,6,730.07,0.25,3285.32,-247.16,424.39,UPI
+ORD1871,2025-06-09,CUST229,Home Office,East,Clothing,Cap,3,1381.01,0.1,3728.73,399.7,306.39,Credit Card
+ORD1872,2025-04-18,CUST314,Corporate,South,Stationery,Notebook Pack,4,496.31,0.0,1985.24,607.33,367.74,Net Banking
+ORD1873,2024-01-28,CUST271,Home Office,North,Clothing,Jeans,7,1075.34,0.05,7151.01,2610.27,108.93,UPI
+ORD1874,2024-03-18,CUST357,Corporate,South,Clothing,Cap,5,3258.38,0.0,16291.9,4997.6,482.88,UPI
+ORD1875,2024-08-03,CUST201,Consumer,South,Groceries,Spices Combo,6,830.44,0.15,4235.24,755.47,213.96,Credit Card
+ORD1876,2025-01-20,CUST308,Consumer,West,Clothing,Jacket,1,342.91,0.15,291.47,52.47,333.75,Debit Card
+ORD1877,2024-12-30,CUST390,Corporate,South,Stationery,Backpack,4,72.36,0.2,231.55,25.58,29.06,UPI
+ORD1878,2025-10-27,CUST385,Consumer,Central,Clothing,Jacket,7,3413.48,0.0,23894.36,8905.5,81.11,UPI
+ORD1879,2025-06-09,CUST215,Corporate,Central,Stationery,Pen Set,5,304.67,0.1,1371.02,365.8,395.38,UPI
+ORD1880,2025-11-29,CUST363,Consumer,East,Clothing,Cap,4,2877.95,0.0,11511.8,3680.83,484.63,Net Banking
+ORD1881,2024-11-07,CUST249,Consumer,Central,Stationery,Printer Paper,3,117.02,0.0,351.06,144.17,173.63,Credit Card
+ORD1882,2024-01-07,CUST399,Consumer,West,Clothing,Sneakers,2,3247.72,0.15,5521.12,1061.29,37.85,Net Banking
+ORD1883,2024-01-03,CUST135,Corporate,East,Clothing,Jeans,1,3098.13,0.0,3098.13,640.88,193.22,UPI
+ORD1884,2025-09-14,CUST386,Corporate,North,Furniture,Office Chair,3,14920.69,0.1,40285.86,4547.02,28.38,UPI
+ORD1885,2024-12-28,CUST307,Consumer,East,Stationery,Printer Paper,3,60.35,0.1,162.95,41.02,112.34,Net Banking
+ORD1886,2025-05-22,CUST205,Consumer,East,Stationery,Pen Set,7,346.48,0.25,1819.02,107.58,381.19,Net Banking
+ORD1887,2024-09-30,CUST257,Consumer,Central,Stationery,Notebook Pack,7,517.85,0.15,3081.21,1050.89,469.8,Net Banking
+ORD1888,2025-05-20,CUST220,Consumer,East,Electronics,Laptop,5,28683.72,0.15,121905.81,14007.73,61.98,Cash on Delivery
+ORD1889,2024-01-15,CUST154,Consumer,Central,Clothing,Jeans,7,1252.57,0.05,8329.59,2442.92,287.79,Credit Card
+ORD1890,2024-07-10,CUST111,Consumer,West,Stationery,Pen Set,4,87.89,0.0,351.56,111.22,141.86,Cash on Delivery
+ORD1891,2025-09-22,CUST244,Consumer,North,Electronics,Laptop,1,36227.39,0.05,34416.02,4995.69,86.75,Credit Card
+ORD1892,2025-04-29,CUST235,Consumer,Central,Furniture,Bookshelf,3,13817.63,0.05,39380.25,10837.85,125.11,Net Banking
+ORD1893,2024-01-28,CUST102,Consumer,East,Stationery,Marker Set,5,375.45,0.1,1689.52,645.1,297.33,UPI
+ORD1894,2025-12-14,CUST243,Consumer,South,Stationery,Printer Paper,1,93.67,0.1,84.3,26.39,51.26,UPI
+ORD1895,2024-02-08,CUST129,Consumer,West,Electronics,Smartphone,7,59686.46,0.05,396914.96,107507.06,228.42,UPI
+ORD1896,2024-09-29,CUST336,Consumer,North,Clothing,T-Shirt,7,1842.36,0.0,12896.52,4161.46,84.91,UPI
+ORD1897,2024-08-18,CUST378,Consumer,East,Furniture,Office Chair,4,19266.1,0.0,77064.4,14787.81,150.88,Credit Card
+ORD1898,2024-03-26,CUST214,Corporate,East,Stationery,Marker Set,7,570.16,0.1,3592.01,747.77,111.56,UPI
+ORD1899,2025-04-18,CUST203,Consumer,South,Clothing,Jacket,3,438.14,0.1,1182.98,188.11,443.83,Credit Card
+ORD1900,2024-05-05,CUST217,Consumer,Central,Furniture,Bookshelf,6,8775.62,0.1,47388.35,11015.32,359.85,UPI
+ORD1901,2025-06-20,CUST104,Consumer,East,Groceries,Cooking Oil,3,548.15,0.05,1562.23,440.88,436.86,Credit Card
+ORD1902,2024-05-24,CUST347,Corporate,North,Groceries,Rice 5kg,3,1273.69,0.0,3821.07,1207.89,204.06,Credit Card
+ORD1903,2025-06-08,CUST220,Home Office,East,Furniture,Table Lamp,7,16874.4,0.15,100402.68,20874.72,170.44,Credit Card
+ORD1904,2024-07-30,CUST385,Corporate,Central,Electronics,Headphones,1,17974.93,0.15,15278.69,2488.18,202.68,UPI
+ORD1905,2024-01-25,CUST248,Corporate,North,Furniture,Office Chair,7,24241.89,0.05,161208.57,55127.73,28.9,Cash on Delivery
+ORD1906,2025-08-02,CUST183,Consumer,North,Furniture,Table Lamp,1,9056.23,0.1,8150.61,748.8,367.86,Cash on Delivery
+ORD1907,2025-01-28,CUST330,Corporate,North,Electronics,Laptop,1,59897.57,0.05,56902.69,17973.72,187.89,Credit Card
+ORD1908,2024-03-07,CUST387,Corporate,North,Electronics,Smartphone,1,59777.49,0.1,53799.74,18276.54,170.4,UPI
+ORD1909,2024-08-20,CUST260,Consumer,West,Clothing,Jacket,5,911.87,0.15,3875.45,1235.75,307.11,Net Banking
+ORD1910,2024-04-18,CUST371,Consumer,West,Clothing,Sneakers,2,1300.77,0.1,2341.39,900.07,229.4,UPI
+ORD1911,2024-05-25,CUST137,Consumer,South,Electronics,Smartwatch,7,30190.56,,200767.22,57724.41,490.8,Net Banking
+ORD1912,2024-04-20,CUST325,Home Office,West,Groceries,Beverage Crate,5,1029.74,0.05,4891.26,1769.69,191.0,Credit Card
+ORD1913,2024-08-15,CUST241,Consumer,South,Groceries,Spices Combo,3,839.27,0.1,2266.03,864.88,314.67,UPI
+ORD1914,2024-04-20,CUST391,Corporate,Central,Furniture,Office Chair,5,24281.87,0.1,109268.42,23552.71,169.59,UPI
+ORD1915,2025-04-14,CUST250,Consumer,Central,Stationery,Printer Paper,4,882.59,0.1,3177.32,515.45,495.49,Credit Card
+ORD1916,2024-02-03,CUST213,Consumer,South,Furniture,Bookshelf,6,6483.05,0.1,35008.47,12613.73,233.65,UPI
+ORD1917,2025-09-14,CUST336,Consumer,Central,Furniture,Sofa,1,3969.79,0.0,3969.79,1237.48,324.38,UPI
+ORD1918,2025-01-03,CUST165,Consumer,West,Stationery,Printer Paper,7,841.66,0.25,4418.72,-136.02,80.83,Credit Card
+ORD1919,2025-08-17,CUST357,Corporate,South,Electronics,Smartwatch,4,11190.24,0.15,38046.82,190.59,371.85,UPI
+ORD1920,2025-07-07,CUST348,Corporate,South,Groceries,Beverage Crate,7,1202.75,0.05,7998.29,1682.53,149.22,Net Banking
+ORD1921,2025-02-28,CUST279,Consumer,East,Furniture,Bookshelf,6,8809.36,0.1,47570.54,14617.27,235.33,Cash on Delivery
+ORD1922,2025-09-04,CUST289,Corporate,West,Stationery,Marker Set,4,425.93,0.0,1703.72,400.43,443.9,UPI
+ORD1923,2025-06-01,CUST253,Consumer,Central,Clothing,T-Shirt,7,334.55,0.0,2341.85,633.75,485.87,UPI
+ORD1924,2025-11-22,CUST295,Home Office,West,Furniture,Table Lamp,3,17973.76,0.0,53921.28,20838.43,223.79,UPI
+ORD1925,2024-10-08,CUST361,Consumer,Central,Groceries,Snack Pack,1,258.58,0.1,232.72,24.48,420.71,UPI
+ORD1926,2024-11-15,CUST242,Consumer,East,Electronics,Tablet,4,46827.07,0.15,159212.04,32175.57,45.61,Credit Card
+ORD1927,2025-03-18,CUST200,Consumer,West,Furniture,Desk,3,13058.89,0.1,35259.0,2405.71,426.84,UPI
+ORD1928,2024-11-10,CUST343,Consumer,West,Furniture,Desk,1,19930.58,0.05,18934.05,3649.88,322.16,UPI
+ORD1929,2025-01-11,CUST111,Consumer,South,Stationery,Notebook Pack,2,721.52,0.05,1370.89,298.18,254.58,UPI
+ORD1930,2024-10-15,CUST338,Corporate,East,Clothing,Jeans,3,563.79,0.0,1691.37,391.54,447.18,Debit Card
+ORD1931,2025-03-12,CUST148,Home Office,West,Clothing,T-Shirt,5,2750.09,0.0,13750.45,4215.49,425.76,Net Banking
+ORD1932,2025-10-23,CUST141,Corporate,North,Electronics,Tablet,7,6048.37,0.15,35987.8,6284.4,162.53,Credit Card
+ORD1933,2024-10-03,CUST265,Consumer,West,Groceries,Snack Pack,1,770.18,0.2,616.14,-4.13,399.91,Credit Card
+ORD1934,2025-12-10,CUST181,Consumer,North,Electronics,Smartwatch,4,11996.25,0.05,45585.75,9391.69,67.76,Credit Card
+ORD1935,2025-08-04,CUST390,Consumer,East,Furniture,Sofa,6,19179.88,0.1,103571.35,9301.51,414.93,Net Banking
+ORD1936,2025-05-17,CUST257,Consumer,West,Furniture,Desk,4,22922.39,0.2,73351.65,-1581.46,344.22,Net Banking
+ORD1937,2025-09-15,CUST315,Corporate,South,Clothing,T-Shirt,5,2073.2,0.0,10366.0,1628.01,62.18,Debit Card
+ORD1938,2025-05-30,CUST257,Consumer,South,Groceries,Cooking Oil,7,838.01,0.15,4986.16,527.57,347.88,UPI
+ORD1939,2024-12-15,CUST233,Consumer,South,Stationery,Notebook Pack,5,928.56,0.1,4178.52,925.35,298.65,Cash on Delivery
+ORD1940,2025-03-21,CUST166,Consumer,Central,Groceries,Snack Pack,4,107.11,0.1,385.6,128.58,305.38,UPI
+ORD1941,2024-12-15,CUST106,Home Office,North,Furniture,Desk,7,23067.33,0.0,161471.31,38492.47,159.61,Cash on Delivery
+ORD1942,2025-08-29,CUST113,Consumer,Central,Stationery,Pen Set,6,277.07,0.1,1496.18,436.43,147.92,Net Banking
+ORD1943,2025-10-25,CUST172,Consumer,North,Groceries,Spices Combo,1,1477.77,0.15,1256.1,317.89,386.02,UPI
+ORD1944,2024-05-16,CUST262,Consumer,Central,Groceries,Spices Combo,7,1130.76,0.0,7915.32,2996.06,143.27,UPI
+ORD1945,2024-08-30,CUST165,Consumer,Central,Stationery,Pen Set,3,940.39,0.05,2680.11,387.81,234.21,Net Banking
+ORD1946,2025-06-26,CUST229,Consumer,East,Furniture,Table Lamp,7,16920.77,0.0,118445.39,22458.51,353.5,UPI
+ORD1947,2024-02-09,CUST305,Consumer,East,Groceries,Beverage Crate,5,760.33,0.2,3041.32,230.79,58.22,Credit Card
+ORD1948,2024-08-16,CUST375,Corporate,East,Stationery,Marker Set,5,707.37,0.05,3360.01,912.88,305.38,Credit Card
+ORD1949,2025-07-01,CUST355,Consumer,East,Furniture,Table Lamp,5,2590.47,0.15,11009.5,1274.07,302.9,UPI
+ORD1950,2024-08-10,CUST365,Corporate,North,Stationery,Marker Set,6,767.55,0.05,4375.03,1003.17,348.43,UPI
+ORD1951,2024-01-06,CUST124,Home Office,North,Stationery,Backpack,7,770.01,0.0,5390.07,1753.28,197.57,Credit Card
+ORD1952,2024-11-17,CUST380,Corporate,North,Groceries,Spices Combo,7,1347.68,0.0,9433.76,3170.79,235.51,Credit Card
+ORD1953,2025-04-12,CUST352,Consumer,East,Furniture,Sofa,2,13382.92,0.0,26765.84,8970.88,178.39,UPI
+ORD1954,2024-03-15,CUST388,Consumer,South,Groceries,Cooking Oil,6,208.0,0.0,1248.0,341.03,407.92,UPI
+ORD1955,2024-01-04,CUST263,Corporate,East,Electronics,Headphones,1,19759.36,,17783.42,3076.51,82.69,Credit Card
+ORD1956,2025-10-07,CUST194,Corporate,Central,Electronics,Smartphone,1,40026.51,0.0,40026.51,12587.44,482.22,Credit Card
+ORD1957,2024-04-27,CUST369,Consumer,South,Furniture,Office Chair,1,7122.58,0.05,6766.45,779.16,324.72,Credit Card
+ORD1958,2025-08-28,CUST209,Corporate,East,Stationery,Pen Set,1,372.61,0.05,353.98,139.67,445.72,Credit Card
+ORD1959,2025-05-18,CUST337,Consumer,South,Groceries,Rice 5kg,1,1248.66,0.1,1123.79,307.02,224.59,Cash on Delivery
+ORD1960,2025-07-27,CUST124,Consumer,Central,Groceries,Rice 5kg,4,918.05,0.1,3304.98,823.59,179.49,Credit Card
+ORD1961,2025-03-16,CUST240,Consumer,Central,Furniture,Desk,5,13450.39,0.1,60526.76,23196.79,452.35,Net Banking
+ORD1962,2024-07-12,CUST216,Consumer,Central,Furniture,Office Chair,6,8983.62,0.25,40426.29,4878.8,67.46,UPI
+ORD1963,2025-12-15,CUST124,Consumer,Central,Electronics,Headphones,4,44393.83,0.0,177575.32,65327.66,76.21,Debit Card
+ORD1964,2025-01-26,CUST178,Corporate,North,Clothing,Jacket,6,1220.7,0.05,6957.99,1817.79,163.69,Credit Card
+ORD1965,2024-01-26,CUST167,Consumer,West,Furniture,Table Lamp,2,18820.99,0.05,35759.88,11257.84,480.69,Credit Card
+ORD1966,2025-03-10,CUST272,Consumer,West,Clothing,Cap,7,524.32,,3486.73,668.52,323.87,Credit Card
+ORD1967,2024-06-21,CUST111,Consumer,South,Furniture,Desk,3,21816.72,0.1,58905.14,12895.0,286.01,Credit Card
+ORD1968,2024-10-26,CUST387,Consumer,Central,Stationery,Backpack,5,624.5,0.05,2966.38,1127.45,358.57,Net Banking
+ORD1969,2025-10-06,CUST227,Consumer,North,Stationery,Notebook Pack,2,554.28,0.05,1053.13,193.98,220.39,Credit Card
+ORD1970,2024-11-21,CUST195,Corporate,West,Electronics,Headphones,4,37439.36,0.05,142269.57,55444.9,383.88,Credit Card
+ORD1971,2025-02-13,CUST191,Corporate,South,Electronics,Laptop,3,38203.14,0.25,85957.06,-5927.0,208.75,Cash on Delivery
+ORD1972,2024-04-27,CUST240,Corporate,South,Clothing,Jacket,7,722.51,0.2,4046.06,-148.82,416.65,UPI
+ORD1973,2025-12-24,CUST130,Corporate,West,Furniture,Sofa,2,19271.49,0.0,38542.98,13615.94,148.3,Credit Card
+ORD1974,2024-08-12,CUST119,Consumer,East,Groceries,Spices Combo,7,486.3,0.0,3404.1,586.04,153.22,Credit Card
+ORD1975,2025-06-15,CUST245,Consumer,South,Electronics,Smartphone,7,54487.79,0.15,324202.35,23684.91,270.74,Credit Card
+ORD1976,2024-04-22,CUST259,Consumer,South,Groceries,Spices Combo,6,1244.99,0.25,5602.46,-573.17,226.77,Debit Card
+ORD1977,2024-05-19,CUST142,Consumer,West,Groceries,Rice 5kg,3,584.77,0.0,1754.31,438.79,331.1,Cash on Delivery
+ORD1978,2025-07-12,CUST353,Home Office,North,Furniture,Desk,6,20481.87,0.05,116746.66,40468.91,194.86,Cash on Delivery
+ORD1979,2024-01-01,CUST229,Consumer,South,Clothing,Sneakers,7,1440.45,0.2,8066.52,-185.1,130.66,Debit Card
+ORD1980,2024-03-30,CUST159,Consumer,Central,Furniture,Table Lamp,2,3872.27,0.1,6970.09,2282.48,245.51,UPI
+ORD1981,2025-10-15,CUST250,Home Office,Central,Electronics,Smartwatch,7,57789.52,0.0,404526.64,156180.39,289.26,Credit Card
+ORD1982,2024-11-15,CUST386,Home Office,South,Groceries,Spices Combo,4,1013.64,0.1,3649.1,1089.38,88.45,UPI
+ORD1983,2025-07-03,CUST104,Corporate,West,Furniture,Office Chair,7,12218.34,0.2,68422.7,13575.58,287.22,Net Banking
+ORD1984,2024-05-18,CUST365,Consumer,West,Furniture,Bookshelf,6,10847.67,0.15,55323.12,9480.18,173.24,Cash on Delivery
+ORD1985,2025-05-25,CUST229,Consumer,Central,Furniture,Sofa,3,9130.58,0.1,24652.57,3724.26,208.38,UPI
+ORD1986,2024-09-15,CUST366,Consumer,East,Electronics,Smartwatch,2,58923.96,0.1,106063.13,8501.26,154.07,UPI
+ORD1987,2025-11-03,CUST277,Consumer,North,Clothing,Jeans,6,731.19,0.0,4387.14,1857.82,467.08,Debit Card
+ORD1988,2025-11-20,CUST352,Consumer,South,Furniture,Sofa,7,8897.92,0.15,52942.62,852.63,348.0,Credit Card
+ORD1989,2024-01-10,CUST155,Consumer,South,Electronics,Smartwatch,4,30158.86,0.0,120635.44,20942.69,145.98,Cash on Delivery
+ORD1990,2024-09-17,CUST182,Home Office,East,Groceries,Spices Combo,5,769.2,0.2,3076.8,899.2,329.62,Credit Card
+ORD1991,2025-10-11,CUST198,Consumer,North,Stationery,Marker Set,4,592.07,0.05,2249.87,691.31,427.31,UPI
+ORD1992,2024-06-20,CUST248,Corporate,East,Electronics,Smartphone,7,12195.46,0.15,72562.99,4785.49,212.78,Credit Card
+ORD1993,2024-01-13,CUST255,Corporate,South,Stationery,Notebook Pack,4,216.67,0.0,866.68,230.99,418.38,UPI
+ORD1994,2024-06-16,CUST289,Consumer,South,Furniture,Sofa,5,7487.04,0.05,35563.44,6224.42,94.12,UPI
+ORD1995,2025-10-03,CUST362,Corporate,Central,Furniture,Office Chair,4,22991.36,0.0,91965.44,21546.58,414.94,UPI
+ORD1996,2025-08-18,CUST179,Consumer,East,Electronics,Smartphone,5,8557.07,0.1,38506.82,8598.53,279.34,Cash on Delivery
+ORD1997,2024-11-16,CUST351,Consumer,North,Stationery,Pen Set,7,921.04,0.15,5480.19,1854.46,127.03,Net Banking
+ORD1998,2024-11-14,CUST196,Corporate,West,Furniture,Table Lamp,5,19302.39,0.1,86860.76,16862.53,215.43,Net Banking
+ORD1999,2025-09-04,CUST359,Consumer,North,Groceries,Beverage Crate,6,1233.68,0.05,7031.98,2852.99,494.24,Credit Card
+ORD2000,2024-11-24,CUST359,Home Office,West,Clothing,Jacket,6,3137.17,0.0,18823.02,5061.17,396.11,Cash on Delivery
+ORD2001,2025-07-03,CUST202,Consumer,West,Clothing,Jeans,5,1141.72,0.2,4566.88,56.38,296.04,Credit Card
+ORD2002,2025-02-22,CUST139,Corporate,South,Furniture,Sofa,2,6777.15,0.1,12198.87,2365.26,75.28,Credit Card
+ORD2003,2025-08-28,CUST372,Consumer,West,Stationery,Notebook Pack,3,585.33,0.1,1580.39,89.37,220.55,Credit Card
+ORD2004,2024-04-04,CUST200,Consumer,East,Furniture,Table Lamp,2,7729.6,0.15,13140.32,2523.56,146.26,UPI
+ORD2005,2025-08-03,CUST320,Consumer,East,Stationery,Notebook Pack,5,894.46,0.1,4025.07,560.61,54.08,Cash on Delivery
+ORD2006,2024-11-13,CUST223,Corporate,North,Groceries,Cooking Oil,3,990.32,0.05,2822.41,593.7,280.26,Credit Card
+ORD2007,2024-08-23,CUST330,Corporate,South,Stationery,Pen Set,6,1056.24,0.1,5703.7,333.17,446.81,UPI
+ORD2008,2024-11-29,CUST277,Corporate,Central,Furniture,Office Chair,3,3444.35,0.1,9299.74,1405.64,344.29,Cash on Delivery
+ORD2009,2025-01-10,CUST162,Consumer,South,Groceries,Cooking Oil,5,1381.12,0.15,5869.76,1731.86,139.85,UPI
+ORD2010,2025-04-03,CUST215,Corporate,East,Electronics,Smartwatch,6,19014.22,0.15,96972.52,1522.43,295.32,Net Banking
+ORD2011,2024-05-16,CUST290,Corporate,East,Clothing,Jeans,3,1870.22,0.0,5610.66,1400.8,472.75,Credit Card
+ORD2012,2025-08-10,CUST161,Corporate,East,Furniture,Table Lamp,3,11807.37,0.05,33651.0,13538.27,367.0,Net Banking
+ORD2013,2025-06-30,CUST355,Consumer,North,Furniture,Sofa,2,19367.32,0.0,38734.64,9789.39,350.95,Credit Card
+ORD2014,2025-05-27,CUST106,Corporate,South,Furniture,Desk,3,11377.83,0.0,34133.49,6316.89,484.72,Debit Card
+ORD2015,2024-10-22,CUST254,Corporate,West,Groceries,Cooking Oil,7,1420.97,0.1,8952.11,1759.46,403.46,UPI
+ORD2016,2024-11-15,CUST191,Consumer,North,Electronics,Smartphone,5,54346.97,0.2,217387.88,39073.87,85.58,Net Banking
+ORD2017,2025-07-25,CUST113,Corporate,North,Stationery,Marker Set,1,1052.99,0.0,1052.99,214.52,186.86,Credit Card
+ORD2018,2024-12-14,CUST328,Corporate,North,Electronics,Tablet,1,6132.98,0.05,5826.33,1013.45,483.27,Credit Card
+ORD2019,2024-08-16,CUST185,Consumer,South,Groceries,Rice 5kg,1,1295.96,0.2,1036.77,112.42,255.06,Credit Card
+ORD2020,2024-09-26,CUST232,Consumer,Central,Furniture,Office Chair,5,19868.43,0.15,84440.83,25202.26,73.59,UPI
+ORD2021,2024-10-17,CUST282,Consumer,North,Clothing,T-Shirt,1,631.24,0.05,599.68,204.97,240.13,Credit Card
+ORD2022,2025-12-25,CUST161,Consumer,North,Furniture,Table Lamp,2,4024.24,0.15,6841.21,631.44,354.56,Net Banking
+ORD2023,2024-06-13,CUST318,Corporate,South,Stationery,Notebook Pack,5,166.34,0.05,790.12,131.56,498.82,Credit Card
+ORD2024,2024-01-05,CUST345,Consumer,West,Clothing,T-Shirt,7,336.26,0.0,2353.82,862.02,175.47,Net Banking
+ORD2025,2025-01-13,CUST329,Corporate,West,Furniture,Desk,6,14392.91,0.0,86357.46,29327.38,266.76,Credit Card
+ORD2026,2024-03-18,CUST178,Home Office,South,Clothing,T-Shirt,7,3414.86,0.0,23904.02,10200.09,442.25,Credit Card
+ORD2027,2025-02-13,CUST248,Consumer,West,Electronics,Smartphone,5,27443.71,0.05,130357.62,25517.35,190.53,Net Banking
+ORD2028,2025-07-27,CUST237,Home Office,East,Groceries,Spices Combo,5,857.06,0.2,3428.24,1066.73,72.45,Net Banking
+ORD2029,2024-05-11,CUST164,Home Office,Central,Furniture,Sofa,3,24247.29,0.15,61830.59,20806.91,475.49,UPI
+ORD2030,2025-08-23,CUST112,Corporate,West,Stationery,Printer Paper,3,343.46,0.05,978.86,410.81,254.45,Credit Card
+ORD2031,2024-02-11,CUST312,Corporate,South,Electronics,Tablet,3,51791.27,0.05,147605.12,32069.8,261.34,UPI
+ORD2032,2024-03-29,CUST341,Home Office,South,Furniture,Table Lamp,4,14340.18,0.0,57360.72,18629.84,318.18,UPI
+ORD2033,2025-02-05,CUST312,Corporate,North,Electronics,Smartphone,2,35029.64,0.1,63053.35,18266.97,21.7,UPI
+ORD2034,2024-10-22,CUST280,Consumer,South,Stationery,Notebook Pack,5,444.65,0.15,1889.76,58.22,466.94,UPI
+ORD2035,2024-10-21,CUST272,Corporate,Central,Furniture,Bookshelf,7,14697.23,0.0,102880.61,40345.57,193.5,UPI
+ORD2036,2025-09-07,CUST259,Corporate,South,Stationery,Notebook Pack,5,134.11,0.0,670.55,223.42,210.53,Credit Card
+ORD2037,2025-06-09,CUST263,Corporate,South,Clothing,T-Shirt,3,2746.86,0.1,7416.52,559.59,103.57,Cash on Delivery
+ORD2038,2025-11-21,CUST287,Consumer,West,Stationery,Marker Set,5,377.39,0.1,1698.26,418.66,201.51,Net Banking
+ORD2039,2025-09-28,CUST290,Corporate,East,Clothing,T-Shirt,6,3140.35,0.05,17900.0,4401.37,405.89,Credit Card
+ORD2040,2025-02-25,CUST355,Consumer,North,Furniture,Desk,5,10144.49,0.1,45650.2,16530.39,404.0,UPI
+ORD2041,2024-01-23,CUST282,Home Office,South,Clothing,Jacket,7,757.04,0.1,4769.35,598.55,469.18,Credit Card
+ORD2042,2025-07-28,CUST216,Consumer,South,Furniture,Desk,1,17853.22,0.0,17853.22,5769.67,213.55,Cash on Delivery
+ORD2043,2024-05-22,CUST381,Consumer,West,Furniture,Table Lamp,6,5367.59,0.05,30595.26,5147.91,360.19,UPI
+ORD2044,2025-10-26,CUST295,Consumer,North,Groceries,Cooking Oil,6,1155.15,0.05,6584.36,2244.65,263.47,Credit Card
+ORD2045,2024-05-24,CUST133,Consumer,South,Furniture,Sofa,5,24250.64,0.2,97002.56,14945.23,405.93,Credit Card
+ORD2046,2024-08-12,CUST151,Corporate,East,Clothing,T-Shirt,4,2794.57,0.25,8383.71,-402.02,362.02,Credit Card
+ORD2047,2025-05-17,CUST211,Home Office,South,Groceries,Beverage Crate,3,131.43,0.2,315.43,-16.63,196.59,UPI
+ORD2048,2025-09-07,CUST351,Corporate,East,Groceries,Cooking Oil,2,939.84,,1691.71,624.26,181.6,Net Banking
+ORD2049,2024-04-13,CUST181,Consumer,East,Furniture,Bookshelf,2,17842.15,0.1,32115.87,3791.93,141.17,Credit Card
+ORD2050,2024-02-08,CUST331,Consumer,South,Stationery,Marker Set,1,999.28,0.1,899.35,259.6,296.73,Credit Card
+ORD2051,2024-07-16,CUST326,Corporate,Central,Stationery,Printer Paper,2,114.4,0.2,183.04,19.4,482.64,UPI
+ORD2052,2025-10-07,CUST332,Home Office,East,Groceries,Snack Pack,2,772.15,0.0,1544.3,560.54,116.03,Credit Card
+ORD2053,2025-08-01,CUST320,Consumer,North,Furniture,Bookshelf,3,14081.22,0.05,40131.48,9123.21,65.72,UPI
+ORD2054,2025-01-25,CUST141,Consumer,East,Stationery,Marker Set,3,244.49,0.1,660.12,178.86,77.31,UPI
+ORD2055,2024-06-27,CUST120,Consumer,West,Furniture,Table Lamp,4,9077.57,0.1,32679.25,9074.5,395.89,Net Banking
+ORD2056,2025-07-07,CUST141,Home Office,West,Furniture,Office Chair,7,11845.21,0.0,82916.47,36368.7,188.05,Debit Card
+ORD2057,2025-03-23,CUST212,Corporate,North,Groceries,Snack Pack,1,1266.49,0.1,1139.84,387.43,127.7,Debit Card
+ORD2058,2025-05-14,CUST204,Consumer,Central,Groceries,Cooking Oil,2,1401.17,0.15,2381.99,69.71,189.37,UPI
+ORD2059,2024-01-15,CUST291,Consumer,East,Electronics,Smartwatch,4,38448.52,0.05,146104.38,15458.89,329.76,Net Banking
+ORD2060,2025-09-14,CUST116,Home Office,North,Stationery,Printer Paper,1,504.19,0.15,428.56,33.2,282.46,Debit Card
+ORD2061,2025-10-30,CUST219,Consumer,North,Stationery,Notebook Pack,6,342.14,0.05,1950.2,644.5,376.92,Credit Card
+ORD2062,2024-10-15,CUST228,Consumer,North,Stationery,Marker Set,2,1179.46,0.2,1887.14,304.93,182.76,Credit Card
+ORD2063,2025-04-22,CUST229,Corporate,West,Clothing,Jeans,2,3445.66,0.05,6546.75,1227.68,236.97,Credit Card
+ORD2064,2024-08-18,CUST159,Consumer,North,Furniture,Desk,3,23236.96,0.1,62739.79,4144.03,68.94,UPI
+ORD2065,2025-02-23,CUST147,Consumer,North,Groceries,Beverage Crate,5,1199.94,0.0,5999.7,1880.06,55.07,Net Banking
+ORD2066,2024-06-05,CUST128,Corporate,Central,Stationery,Notebook Pack,1,424.65,0.0,424.65,85.42,241.88,UPI
+ORD2067,2025-07-03,CUST196,Home Office,South,Electronics,Headphones,2,49386.03,0.1,88894.85,5677.35,164.77,UPI
+ORD2068,2025-03-16,CUST109,Corporate,North,Stationery,Printer Paper,1,520.11,0.05,494.1,71.75,314.14,UPI
+ORD2069,2024-04-06,CUST341,Home Office,North,Furniture,Sofa,7,9179.17,0.05,61041.48,21323.08,40.64,Credit Card
+ORD2070,2025-02-14,CUST331,Corporate,North,Furniture,Office Chair,4,19004.34,0.0,76017.36,34024.64,78.45,UPI
+ORD2071,2024-10-15,CUST376,Corporate,North,Groceries,Cooking Oil,4,211.52,0.15,719.17,128.92,435.29,Credit Card
+ORD2072,2024-09-10,CUST383,Consumer,West,Clothing,T-Shirt,5,455.4,0.15,1935.45,320.13,291.83,Credit Card
+ORD2073,2024-07-14,CUST302,Corporate,North,Groceries,Beverage Crate,2,727.14,,1454.28,566.62,361.79,Cash on Delivery
+ORD2074,2025-08-20,CUST346,Home Office,North,Stationery,Marker Set,7,562.48,0.1,3543.62,1041.81,424.15,Cash on Delivery
+ORD2075,2025-06-05,CUST389,Consumer,West,Electronics,Tablet,3,53947.36,0.15,137565.77,11402.43,242.64,Cash on Delivery
+ORD2076,2025-05-31,CUST363,Consumer,West,Groceries,Snack Pack,2,276.61,0.1,497.9,115.57,385.31,Net Banking
+ORD2077,2025-09-26,CUST313,Consumer,South,Clothing,Sneakers,1,694.51,0.0,694.51,246.41,271.8,Net Banking
+ORD2078,2024-04-27,CUST299,Consumer,East,Groceries,Rice 5kg,6,306.43,0.1,1654.72,300.08,126.92,Net Banking
+ORD2079,2024-06-07,CUST178,Consumer,South,Furniture,Office Chair,4,2198.8,0.0,8795.2,2235.49,182.07,Net Banking
+ORD2080,2024-08-15,CUST272,Corporate,East,Stationery,Marker Set,1,132.49,0.0,132.49,29.04,255.37,Net Banking
+ORD2081,2024-08-03,CUST168,Home Office,East,Stationery,Marker Set,5,808.85,0.0,4044.25,1629.78,172.11,UPI
+ORD2082,2025-11-26,CUST186,Consumer,South,Stationery,Pen Set,4,546.32,0.1,1966.75,278.72,181.05,UPI
+ORD2083,2024-01-15,CUST200,Consumer,Central,Stationery,Marker Set,3,928.14,0.0,2784.42,752.27,181.95,Net Banking
+ORD2084,2024-06-05,CUST107,Consumer,North,Stationery,Pen Set,4,1191.49,0.2,3812.77,1109.18,78.96,Credit Card
+ORD2085,2025-10-09,CUST299,Home Office,West,Stationery,Notebook Pack,6,807.89,0.0,4847.34,1050.74,60.63,UPI
+ORD2086,2024-09-17,CUST186,Consumer,North,Electronics,Smartphone,7,4926.42,0.0,34484.94,11555.07,42.32,UPI
+ORD2087,2024-06-05,CUST142,Consumer,West,Clothing,Jeans,2,634.6,0.05,1205.74,381.88,73.26,Credit Card
+ORD2088,2024-02-16,CUST208,Consumer,East,Stationery,Printer Paper,6,1063.15,0.0,6378.9,2013.04,184.98,Debit Card
+ORD2089,2024-11-19,CUST251,Consumer,Central,Clothing,Cap,7,1987.99,0.05,13220.13,4121.16,305.06,Credit Card
+ORD2090,2025-11-15,CUST116,Consumer,North,Stationery,Pen Set,6,998.56,0.0,5991.36,2088.07,110.31,UPI
+ORD2091,2024-05-09,CUST232,Home Office,East,Groceries,Rice 5kg,2,1299.26,0.0,2598.52,539.39,446.24,Credit Card
+ORD2092,2025-02-14,CUST247,Corporate,East,Stationery,Backpack,4,1116.83,0.0,4467.32,1843.43,408.02,Cash on Delivery
+ORD2093,2024-04-04,CUST376,Corporate,West,Furniture,Bookshelf,5,23820.99,0.05,113149.7,12961.0,269.85,UPI
+ORD2094,2025-09-18,CUST331,Consumer,East,Electronics,Tablet,2,34179.9,0.0,68359.8,19381.41,367.62,UPI
+ORD2095,2024-10-18,CUST327,Corporate,East,Groceries,Snack Pack,2,577.43,0.15,981.63,283.08,195.84,Cash on Delivery
+ORD2096,2024-10-09,CUST238,Corporate,South,Groceries,Rice 5kg,7,1446.61,0.1,9113.64,3145.57,37.65,UPI
+ORD2097,2024-03-09,CUST310,Consumer,South,Furniture,Desk,3,14364.05,0.1,38782.94,7435.43,454.08,Credit Card
+ORD2098,2025-10-21,CUST127,Corporate,East,Stationery,Backpack,4,123.89,0.05,470.78,104.12,81.34,Credit Card
+ORD2099,2024-01-11,CUST150,Consumer,North,Electronics,Smartphone,2,39281.04,0.1,70705.87,26246.98,475.01,Net Banking
+ORD2100,2024-09-10,CUST360,Corporate,Central,Groceries,Cooking Oil,5,922.76,0.2,3691.04,817.1,294.5,UPI
+ORD2101,2025-07-03,CUST360,Consumer,West,Electronics,Tablet,1,53955.99,0.0,53955.99,11404.21,166.67,Credit Card
+ORD2102,2024-05-13,CUST107,Home Office,Central,Groceries,Cooking Oil,4,1014.46,0.0,4057.84,1765.62,257.85,Credit Card
+ORD2103,2025-12-12,CUST237,Consumer,South,Stationery,Notebook Pack,3,451.41,0.0,1354.23,262.01,260.78,Credit Card
+ORD2104,2024-01-23,CUST137,Corporate,Central,Groceries,Beverage Crate,6,1452.72,0.0,8716.32,2201.32,31.18,UPI
+ORD2105,2024-12-11,CUST210,Corporate,West,Groceries,Snack Pack,2,1222.27,0.0,2444.54,781.45,190.62,Credit Card
+ORD2106,2024-10-28,CUST319,Corporate,West,Clothing,Sneakers,5,2317.34,0.1,10428.03,2851.14,375.14,Credit Card
+ORD2107,2024-12-28,CUST322,Consumer,East,Stationery,Pen Set,4,386.86,0.05,1470.07,610.04,264.83,UPI
+ORD2108,2025-01-30,CUST235,Consumer,South,Furniture,Desk,5,10278.2,0.25,38543.25,-2444.39,137.23,Net Banking
+ORD2109,2024-08-05,CUST355,Corporate,West,Furniture,Table Lamp,5,17244.29,0.0,86221.45,35107.95,180.85,Net Banking
+ORD2110,2024-05-20,CUST148,Consumer,East,Stationery,Backpack,7,132.78,0.0,929.46,331.94,434.27,UPI
+ORD2111,2025-09-07,CUST391,Consumer,North,Furniture,Desk,6,7531.99,0.25,33893.96,1322.68,272.26,Net Banking
+ORD2112,2024-07-28,CUST177,Corporate,South,Stationery,Printer Paper,3,870.99,0.15,2221.02,591.06,273.61,UPI
+ORD2113,2025-09-14,CUST204,Consumer,Central,Furniture,Desk,4,12780.43,0.05,48565.63,12824.28,481.5,Debit Card
+ORD2114,2025-09-07,CUST268,Consumer,Central,Clothing,T-Shirt,2,1587.66,0.1,2857.79,340.39,174.02,Credit Card
+ORD2115,2025-11-13,CUST316,Consumer,Central,Furniture,Sofa,3,5059.25,0.15,12901.09,2410.82,250.18,UPI
+ORD2116,2025-04-04,CUST218,Consumer,East,Groceries,Snack Pack,2,718.59,0.05,1365.32,165.72,409.62,UPI
+ORD2117,2024-12-21,CUST289,Corporate,South,Stationery,Backpack,1,936.3,0.0,936.3,183.28,384.28,Credit Card
+ORD2118,2024-11-19,CUST354,Corporate,North,Electronics,Laptop,5,17312.75,0.15,73579.19,17320.39,147.58,Net Banking
+ORD2119,2024-05-12,CUST365,Corporate,North,Electronics,Tablet,1,2313.12,0.05,2197.46,647.7,92.52,Credit Card
+ORD2120,2024-05-06,CUST248,Home Office,North,Stationery,Marker Set,7,818.78,0.0,5731.46,1851.27,356.34,UPI
+ORD2121,2024-04-15,CUST263,Consumer,South,Clothing,Cap,5,3412.41,0.05,16208.95,3619.65,143.67,UPI
+ORD2122,2025-08-26,CUST239,Consumer,North,Furniture,Bookshelf,6,15760.42,0.05,89834.39,29688.97,462.88,Credit Card
+ORD2123,2025-01-12,CUST357,Consumer,South,Clothing,Jacket,3,683.75,0.2,1641.0,-83.64,82.04,UPI
+ORD2124,2024-02-20,CUST368,Consumer,Central,Electronics,Smartphone,2,20602.52,0.0,41205.04,11018.01,172.79,UPI
+ORD2125,2024-01-29,CUST280,Home Office,South,Stationery,Backpack,7,1047.79,0.2,5867.62,954.8,46.3,Net Banking
+ORD2126,2025-04-06,CUST259,Consumer,Central,Stationery,Pen Set,6,317.45,0.05,1809.46,393.31,357.59,Net Banking
+ORD2127,2024-10-22,CUST387,Consumer,East,Clothing,Sneakers,2,2244.63,0.05,4264.8,1263.18,447.81,Credit Card
+ORD2128,2024-10-23,CUST387,Consumer,South,Clothing,Sneakers,3,1588.55,0.0,4765.65,975.34,325.22,UPI
+ORD2129,2025-12-26,CUST325,Corporate,South,Furniture,Sofa,4,6384.33,0.1,22983.59,4587.72,470.12,Cash on Delivery
+ORD2130,2025-02-10,CUST110,Corporate,North,Groceries,Cooking Oil,7,1238.77,0.2,6937.11,2058.66,81.68,Credit Card
+ORD2131,2025-09-04,CUST109,Consumer,South,Groceries,Snack Pack,1,1139.96,0.05,1082.96,395.53,62.11,UPI
+ORD2132,2025-02-08,CUST370,Home Office,West,Furniture,Bookshelf,1,17047.39,0.0,17047.39,3247.56,422.44,Net Banking
+ORD2133,2024-12-11,CUST372,Consumer,North,Groceries,Snack Pack,2,430.87,0.1,775.57,156.09,430.65,UPI
+ORD2134,2025-09-13,CUST282,Consumer,North,Electronics,Laptop,2,7675.71,0.15,13048.71,228.69,418.9,Credit Card
+ORD2135,2025-02-23,CUST252,Home Office,South,Groceries,Beverage Crate,2,906.62,0.0,1813.24,776.56,403.5,UPI
+ORD2136,2024-06-30,CUST223,Consumer,Central,Furniture,Bookshelf,7,14511.43,0.1,91422.01,26555.23,193.87,UPI
+ORD2137,2024-01-01,CUST213,Home Office,West,Groceries,Snack Pack,3,363.74,0.1,982.1,318.57,124.38,Debit Card
+ORD2138,2025-07-20,CUST377,Home Office,West,Stationery,Marker Set,4,114.68,0.0,458.72,130.21,465.83,Credit Card
+ORD2139,2025-01-05,CUST312,Corporate,North,Clothing,Jacket,1,558.27,0.05,530.36,159.2,167.36,Debit Card
+ORD2140,2025-10-22,CUST271,Corporate,West,Electronics,Tablet,6,59580.72,0.0,357484.32,144001.1,211.24,UPI
+ORD2141,2025-03-06,CUST387,Consumer,West,Stationery,Pen Set,5,951.12,0.15,4042.26,509.68,355.79,Credit Card
+ORD2142,2024-11-04,CUST273,Home Office,East,Stationery,Pen Set,7,1110.29,0.1,6994.83,1469.78,160.81,UPI
+ORD2143,2024-05-16,CUST212,Consumer,Central,Furniture,Bookshelf,7,6083.79,0.05,40457.2,13524.59,413.18,UPI
+ORD2144,2024-07-20,CUST221,Corporate,South,Clothing,Jacket,3,3373.82,0.05,9615.39,2591.79,53.62,Credit Card
+ORD2145,2025-03-11,CUST131,Home Office,Central,Clothing,T-Shirt,1,756.49,0.0,756.49,171.18,399.77,Credit Card
+ORD2146,2024-11-08,CUST321,Home Office,Central,Electronics,Laptop,4,31526.75,0.15,107190.95,30066.24,308.89,Cash on Delivery
+ORD2147,2024-04-26,CUST218,Corporate,North,Furniture,Desk,3,20997.85,0.05,59843.87,19662.07,295.04,Debit Card
+ORD2148,2025-10-27,CUST138,Consumer,East,Electronics,Smartwatch,6,22288.59,0.05,127044.96,39606.83,240.02,UPI
+ORD2149,2025-07-28,CUST367,Home Office,Central,Groceries,Beverage Crate,1,694.76,0.05,660.02,122.26,152.98,Credit Card
+ORD2150,2024-08-31,CUST332,Corporate,North,Stationery,Printer Paper,3,197.41,0.05,562.62,86.42,242.75,Net Banking
+ORD2151,2025-06-20,CUST117,Home Office,East,Electronics,Tablet,1,9129.47,0.0,9129.47,3077.39,236.01,UPI
+ORD2152,2025-08-24,CUST248,Corporate,Central,Stationery,Backpack,1,762.5,0.0,762.5,275.27,300.2,Credit Card
+ORD2153,2024-03-15,CUST248,Consumer,East,Furniture,Desk,7,17375.01,0.0,121625.07,22277.57,155.16,Debit Card
+ORD2154,2025-01-20,CUST225,Consumer,North,Groceries,Rice 5kg,4,1188.27,0.15,4040.12,0.91,57.25,Credit Card
+ORD2155,2024-07-28,CUST337,Corporate,East,Furniture,Table Lamp,7,14582.03,0.0,102074.21,25405.65,89.64,UPI
+ORD2156,2025-04-19,CUST234,Corporate,North,Groceries,Cooking Oil,5,1004.06,0.0,5020.3,768.14,355.61,UPI
+ORD2157,2025-02-21,CUST250,Consumer,East,Groceries,Snack Pack,4,118.92,0.15,404.33,48.53,30.8,UPI
+ORD2158,2024-12-12,CUST335,Corporate,North,Stationery,Printer Paper,1,236.5,0.0,236.5,54.39,431.09,Credit Card
+ORD2159,2025-06-12,CUST323,Consumer,East,Furniture,Table Lamp,3,24645.5,0.1,66542.85,17257.02,353.31,Net Banking
+ORD2160,2025-10-01,CUST302,Corporate,East,Furniture,Sofa,6,3285.85,0.0,19715.1,6311.0,388.68,Debit Card
+ORD2161,2024-06-27,CUST355,Consumer,West,Electronics,Smartwatch,4,41369.72,0.0,165478.88,67310.07,421.27,UPI
+ORD2162,2024-06-30,CUST185,Consumer,East,Furniture,Sofa,5,5637.94,0.05,26780.21,4317.95,78.9,UPI
+ORD2163,2025-10-25,CUST249,Consumer,East,Electronics,Smartphone,1,43569.68,0.0,43569.68,7436.57,414.78,Credit Card
+ORD2164,2024-01-25,CUST334,Consumer,West,Clothing,Cap,6,2559.17,0.15,13051.77,1734.64,262.23,Cash on Delivery
+ORD2165,2024-06-28,CUST121,Consumer,North,Clothing,Cap,4,1049.44,0.05,3987.87,1246.34,445.05,Debit Card
+ORD2166,2025-12-10,CUST384,Consumer,East,Clothing,Sneakers,7,1162.83,0.0,8139.81,3286.82,445.56,Net Banking
+ORD2167,2025-05-15,CUST368,Consumer,North,Furniture,Sofa,7,16887.11,0.0,118209.77,43791.18,31.61,UPI
+ORD2168,2024-06-09,CUST357,Home Office,Central,Furniture,Office Chair,4,10667.02,0.05,40534.68,13797.87,203.78,Debit Card
+ORD2169,2024-06-25,CUST128,Home Office,North,Electronics,Headphones,4,13283.78,0.0,53135.12,14130.84,272.67,Credit Card
+ORD2170,2024-10-11,CUST312,Consumer,South,Groceries,Snack Pack,4,1124.35,0.0,4497.4,748.77,345.61,UPI
+ORD2171,2024-03-03,CUST382,Home Office,West,Electronics,Laptop,6,10940.56,0.05,62361.19,25306.72,157.37,UPI
+ORD2172,2025-10-23,CUST149,Consumer,East,Clothing,Cap,7,3038.06,0.15,18076.46,6373.41,141.03,UPI
+ORD2173,2025-10-27,CUST194,Corporate,North,Electronics,Tablet,3,31850.83,0.05,90774.87,21016.34,203.01,Cash on Delivery
+ORD2174,2024-06-04,CUST187,Corporate,East,Groceries,Cooking Oil,5,247.98,0.1,1115.91,328.3,260.45,Net Banking
+ORD2175,2025-04-13,CUST143,Consumer,West,Furniture,Bookshelf,5,17810.7,0.2,71242.8,-1261.4,476.55,Credit Card
+ORD2176,2024-02-18,CUST377,Consumer,West,Electronics,Headphones,1,32111.46,0.0,32111.46,11297.61,385.81,UPI
+ORD2177,2024-03-24,CUST270,Consumer,South,Clothing,Jacket,2,1253.78,0.15,2131.43,534.31,226.07,UPI
+ORD2178,2024-12-26,CUST288,Consumer,East,Clothing,T-Shirt,3,1652.13,0.15,4212.93,1086.18,46.1,UPI
+ORD2179,2025-11-19,CUST283,Corporate,East,Furniture,Office Chair,7,8510.94,0.05,56597.75,21241.68,100.89,Credit Card
+ORD2180,2024-05-27,CUST102,Consumer,West,Electronics,Laptop,1,17255.5,0.25,12941.62,440.72,238.84,Credit Card
+ORD2181,2025-09-21,CUST290,Consumer,East,Groceries,Cooking Oil,1,329.05,0.0,329.05,131.47,410.64,Net Banking
+ORD2182,2024-12-07,CUST217,Consumer,East,Furniture,Desk,4,10025.03,0.0,40100.12,12936.73,202.73,Cash on Delivery
+ORD2183,2025-04-20,CUST118,Consumer,South,Electronics,Smartwatch,2,16557.26,0.15,28147.34,5354.89,278.48,Debit Card
+ORD2184,2024-03-03,CUST122,Consumer,North,Stationery,Backpack,7,835.95,0.05,5559.07,2304.69,448.07,Debit Card
+ORD2185,2025-12-01,CUST129,Consumer,North,Clothing,Sneakers,2,2488.41,0.0,4976.82,2214.47,458.62,Net Banking
+ORD2186,2024-12-25,CUST394,Home Office,North,Groceries,Spices Combo,3,802.58,0.0,2407.74,707.72,123.57,Credit Card
+ORD2187,2025-07-14,CUST207,Consumer,East,Groceries,Cooking Oil,2,1189.12,0.15,2021.5,216.87,40.93,Cash on Delivery
+ORD2188,2024-11-22,CUST380,Consumer,East,Groceries,Cooking Oil,1,1277.88,0.15,1086.2,22.18,166.6,UPI
+ORD2189,2024-05-20,CUST227,Corporate,North,Clothing,Cap,2,2155.25,0.1,3879.45,1277.05,353.99,Net Banking
+ORD2190,2024-08-02,CUST328,Consumer,Central,Electronics,Headphones,2,37898.24,0.25,56847.36,12811.3,476.53,UPI
+ORD2191,2025-03-10,CUST210,Corporate,North,Furniture,Sofa,5,8147.82,0.0,40739.1,17695.99,56.98,Cash on Delivery
+ORD2192,2025-12-23,CUST235,Corporate,West,Electronics,Smartwatch,7,53902.41,,377316.87,120434.84,33.67,UPI
+ORD2193,2024-11-13,CUST285,Consumer,East,Furniture,Office Chair,7,2068.84,0.1,13033.69,2361.35,444.39,Credit Card
+ORD2194,2024-02-01,CUST243,Consumer,South,Groceries,Snack Pack,1,588.04,0.15,499.83,28.12,379.11,UPI
+ORD2195,2025-10-31,CUST171,Consumer,North,Electronics,Laptop,6,43864.42,0.0,263186.52,64535.05,496.28,Credit Card
+ORD2196,2024-10-11,CUST228,Consumer,East,Groceries,Cooking Oil,2,212.13,0.0,424.26,164.4,210.46,Debit Card
+ORD2197,2024-10-31,CUST360,Consumer,South,Stationery,Marker Set,2,260.64,0.15,443.09,84.17,219.7,UPI
+ORD2198,2025-03-04,CUST102,Consumer,Central,Groceries,Cooking Oil,4,925.0,0.25,2775.0,-270.48,102.71,UPI
+ORD2199,2025-04-21,CUST203,Consumer,East,Groceries,Snack Pack,7,883.99,0.1,5569.14,1559.22,75.61,Cash on Delivery
+ORD1025,2024-10-03,CUST354,Consumer,West,Stationery,Pen Set,7,947.66,0.05,6301.94,1975.52,275.28,UPI
+ORD1850,2024-02-16,CUST328,Corporate,North,Electronics,Smartphone,1,6542.97,0.15,5561.52,1932.34,387.74,UPI
+ORD2075,2025-06-05,CUST389,Consumer,West,Electronics,Tablet,3,53947.36,0.15,137565.77,11402.43,242.64,Cash on Delivery
+ORD2047,2025-05-17,CUST211,Home Office,South,Groceries,Beverage Crate,3,131.43,0.2,315.43,-16.63,196.59,UPI
+ORD1590,2024-08-10,CUST113,Corporate,East,Furniture,Office Chair,6,10900.7,0.1,58863.78,22214.46,164.39,Net Banking
+ORD1216,2024-08-12,CUST270,Corporate,South,Stationery,Backpack,2,289.52,0.05,550.09,87.09,409.33,Net Banking
+ORD1350,2024-10-06,CUST334,Corporate,South,Stationery,Pen Set,6,1176.15,0.0,7056.9,2681.18,108.44,UPI
+ORD1871,2025-06-09,CUST229,Home Office,East,Clothing,Cap,3,1381.01,0.1,3728.73,399.7,306.39,Credit Card
+ORD2167,2025-05-15,CUST368,Consumer,North,Furniture,Sofa,7,16887.11,0.0,118209.77,43791.18,31.61,UPI
+ORD1230,2024-07-02,CUST368,Consumer,West,Electronics,Smartwatch,2,7968.5,0.15,13546.45,4592.68,369.36,Credit Card
