@@ -102,7 +102,7 @@ The workflow follows a standard data analytics pipeline: **Load → Clean → Ex
 ```
 retail-sales-analysis/
 │
-├── retail_sales_analysis.py       # Main analysis script
+├── retail_sales_python_project.ipynb       # Main analysis script
 ├── retail_sales_data.csv          # Dataset
 ├── README.md                      # Project documentation
 └── charts/
@@ -128,8 +128,8 @@ retail-sales-analysis/
 ## 👤 Author
 
 **Nithyanandham**
-Aspiring Data Analyst | Electronics & Communication Engineering background
-📫 Connect with me on [LinkedIn](#) | [GitHub](#)
+Aspiring Data Analyst | Data Scientist
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/arjun1425/) | [GitHub](https://github.com/Arjun42500)
 
 ---
 
